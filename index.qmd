@@ -1,5 +1,18 @@
 ---
-title: "tumorscholar.github.io"
+title: "Raju Kumar"
+image: pic.jpeg
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/tumorscholar/
+    - text: GitHub
+      href: https://github.com/tumorscholar
+    - text: Email
+      href: mailto:tumorscholar@gmail.com
 ---
 
 This is a Quarto website.
