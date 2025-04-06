@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Raju Kumar",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "I am an enterprising biomedical research scientist dedicated to dissect the roles of T cell in disease outcomes. My current research focuses on understanding T cells involvement in the liver, adipose tissues, and blood of patients with early-stage liver fibrosis. Through this work, I aim to advance our understanding of the early-stage liver fibrosis drivers and contribute to the development of innovative therapeutic strategies."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,33 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Blog\nHere are my latest blog posts:\n\n\nList all blog posts (using Quarto’s blog post function)\nsite.posts() |&gt; knitr::kable()"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Raju Kumar",
+    "section": "Education",
+    "text": "Education\nPhD in Molecular Oncology\nManipal Academy of Higher Education, India\nJuly 2012 – Oct 2015\nM.Sc in Animal Biotechnology\nUniversity of Hyderabad, India\nAug 2010 – July 2012\nB.Sc (Honours) in Biotechnology\nMagadh University, Bodhgaya, India\nAug 2007 – June 2010"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Raju Kumar",
+    "section": "",
+    "text": "Wengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Sept 2012 - April 2018"
+  },
+  {
+    "objectID": "index.html#interests",
+    "href": "index.html#interests",
+    "title": "Raju Kumar",
+    "section": "Interests",
+    "text": "Interests\n\nSingle Cell Multi-Omics\n\nSpatial Transcriptomics & Proteomics\n\nAdaptive Immune Receptor Repertoire\n\nOrganoids\n\nT cells"
   }
 ]

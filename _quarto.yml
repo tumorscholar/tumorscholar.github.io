@@ -3,18 +3,35 @@ project:
   output-dir: docs
 
 website:
-  title: "tumorscholar.github.io"
+  title: ""
+  page-footer: "*Either die doing wet lab research or live long enough to do some computational research*"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - href: ResearchExperience.qmd
+        text: Experience
+      - href: Skills.qmd
+        text: Skills
+      - href: Blog.qmd
+        text: Blog
+      - href: Presentations.qmd
+        text: Presentations
+      - href: FellowshipsAwards.qmd
+        text: Fellowships & Awards
+      - href: OutreachActivities.qmd
+        text: Outreach Activities
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
-    toc: true
-
-editor: visual
-
+   backgroundcolor: "lightgray"
+   fontcolor: "black"
+   linkcolor: "black"
+   mainfont: "sans-serif"
+   fontsize: 18px
+   theme: cosmo
+   css: styles.css
+   toc: true
+   page-layout: full

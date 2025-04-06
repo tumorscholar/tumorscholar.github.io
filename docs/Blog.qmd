@@ -1,0 +1,16 @@
+---
+title: "Blog"
+format: html
+---
+
+# Blog
+
+Here are my latest blog posts:
+
+```{r}
+# List all blog posts (using Quarto’s blog post function)
+site.posts() |>
+  knitr::kable()
+
+
+---

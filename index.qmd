@@ -1,24 +1,53 @@
 ---
 title: "Raju Kumar"
-image: pic.jpeg
+subtitle: "Postdoctoral Researcher | Queen Mary University of London"
+image: images/profile_pic_low.jpg
 toc: false
 about: 
-  template: jolla
+  template: trestles
   image-shape: round
   image-width: 17em
   links:
-    - text: LinkedIn
+    - icon: linkedin
+      text: LinkedIn
       href: https://www.linkedin.com/in/tumorscholar/
-    - text: GitHub
+    - icon: globe
+      text: Bluesky
+      href: https://bsky.app/profile/tumorscholar.bsky.social
+    - icon: github
+      text: GitHub
       href: https://github.com/tumorscholar
-    - text: Email
+    - icon: envelope
+      text: Email
       href: mailto:tumorscholar@gmail.com
 ---
+::: {.justify-text}
+I am an enterprising biomedical research scientist dedicated to dissect the roles of T cell in disease outcomes.
+My current research focuses on understanding T cells involvement in the liver, adipose tissues, and blood of patients with early-stage liver fibrosis. Through this work, I aim to advance our understanding of the early-stage liver fibrosis drivers and contribute to the development of innovative therapeutic strategies.
+:::
 
-This is a Quarto website.
+------------------------------------------------------------------------
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Interests
 
-```{r}
-1 + 1
-```
+- Single Cell Multi-Omics  
+- Spatial Transcriptomics & Proteomics  
+- Adaptive Immune Receptor Repertoire  
+- Organoids  
+- T cells  
+
+---
+
+## Education
+
+**PhD in Molecular Oncology**  
+Manipal Academy of Higher Education, India  
+July 2012 – Oct 2015
+
+**M.Sc in Animal Biotechnology**  
+University of Hyderabad, India  
+Aug 2010 – July 2012
+
+**B.Sc (Honours) in Biotechnology**  
+Magadh University, Bodhgaya, India  
+Aug 2007 – June 2010

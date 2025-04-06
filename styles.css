@@ -1,1 +1,8 @@
-/* css styles */
+.justify-text {
+  text-align: justify;
+}
+
+/* Increase footer font size */
+.quarto-footer .footer-center {
+  font-size: 1.2rem; /* You can adjust to 1.1rem, 16px, etc. */
+}
