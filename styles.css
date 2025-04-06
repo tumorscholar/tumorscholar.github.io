@@ -2,7 +2,15 @@
   text-align: justify;
 }
 
+/* Tweak subtitle spacing or alignment if needed */
+.quarto-title-subtitle {
+  line-height: 1.5;
+  font-size: 1.1em;
+  text-align: center; /* or left/right */
+}
+
 /* Increase footer font size */
 .quarto-footer .footer-center {
-  font-size: 1.2rem; /* You can adjust to 1.1rem, 16px, etc. */
+  font-size: 2rem; /* You can adjust to 1.1rem, 16px, etc. */
 }
+
