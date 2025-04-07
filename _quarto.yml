@@ -15,14 +15,12 @@ website:
         text: experience
       - href: Skills.qmd
         text: skills
-      - href: Blog.qmd
-        text: blog
       - href: Presentations.qmd
         text: presentations
       - href: FellowshipsAwards.qmd
         text: fellowships & awards
       - href: OutreachActivities.qmd
-        text: outreach activities
+        text: activities
 
 format:
   html:
