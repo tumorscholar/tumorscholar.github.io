@@ -4,7 +4,7 @@ project:
 
 website:
   title: ""
-  page-footer: "*Either die doing wet lab research or live long enough to do some computational research*"
+  page-footer: "*Either die doing wet lab research or live long enough to use computational research*"
   navbar:
     left:
       - href: index.qmd
