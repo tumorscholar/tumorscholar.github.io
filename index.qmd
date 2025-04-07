@@ -22,7 +22,7 @@ about:
       href: mailto:tumorscholar@gmail.com
 ---
 ::: {.justify-text}
-I am an enterprising biomedical research scientist dedicated to dissect the roles of T cell in disease outcomes.
+I am an enterprising biomedical research scientist dedicated to dissect the role of T cells in disease outcomes.
 My current research focuses on understanding T cells involvement in the liver, adipose tissues, and blood of patients with early-stage liver fibrosis. Through this work, I aim to advance our understanding of the early-stage liver fibrosis drivers and contribute to the development of innovative therapeutic strategies.
 :::
 
