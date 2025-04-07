@@ -9,14 +9,14 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "about",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "I am a wet lab cum computational researcher, trained in handling and processing human clinical samples and performing molecular analysis to identify potential causal genes that could be targeted for therapy.\nI hail from India and received my education there. After earning my Master’s degree in Animal Biotechnology from the University of Hyderabad, I completed my PhD at the Center for DNA Fingerprinting and Diagnostics (CDFD), Hyderabad, where I worked on early-onset sporadic rectal cancer (EOSRC) for my thesis. During this time, I developed an interest in T-cell mediated immunopathogenesis.\nCurrently, I am investigating the pathogenesis of Metabolic dysfunction-associated steatohepatitis (MASH). I am characterizing the T cell repertoire and its response in MASH using single-cell sequencing (CITEseq and TCRseq) of immune cells isolated simultaneously from the liver, blood, subcutaneous, and visceral adipose tissues in a cohort of mild to moderate MASH patients.\nBeyond the lab, I enjoy sharing my knowledge and enthusiasm for science with students and people in various communities."
   },
   {
     "objectID": "blog.html",
     "href": "blog.html",
-    "title": "Blog",
+    "title": "blog",
     "section": "",
     "text": "Blog\nHere are my latest blog posts:\n\n\nList all blog posts (using Quarto’s blog post function)\nsite.posts() |&gt; knitr::kable()"
   },
@@ -25,7 +25,7 @@
     "href": "index.html#education",
     "title": "Raju Kumar",
     "section": "Education",
-    "text": "Education\nPhD in Molecular Oncology\nManipal Academy of Higher Education, India\nJuly 2012 – Oct 2015\nM.Sc in Animal Biotechnology\nUniversity of Hyderabad, India\nAug 2010 – July 2012\nB.Sc (Honours) in Biotechnology\nMagadh University, Bodhgaya, India\nAug 2007 – June 2010"
+    "text": "Education\nPhD in Molecular Oncology\nManipal Academy of Higher Education, India\nJuly 2012 – Oct 2018\nM.Sc in Animal Biotechnology\nUniversity of Hyderabad, India\nAug 2010 – July 2012\nB.Sc (Honours) in Biotechnology\nMagadh University, Bodhgaya, India\nAug 2007 – June 2010"
   },
   {
     "objectID": "index.html#experience",
@@ -39,6 +39,13 @@
     "href": "index.html#interests",
     "title": "Raju Kumar",
     "section": "Interests",
-    "text": "Interests\n\nSingle Cell Multi-Omics\n\nSpatial Transcriptomics & Proteomics\n\nAdaptive Immune Receptor Repertoire\n\nT cells\nOrganoids"
+    "text": "Interests\n\nT cells\nOrganoids\nSingle Cell Multi-Omics\n\nSpatial Transcriptomics & Proteomics\n\nAdaptive Immune Receptor Repertoire"
+  },
+  {
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
+    "title": "About",
+    "section": "",
+    "text": "I am a wet lab cum computational researcher, trained in handling and processing human clinical samples and performing molecular analysis to identify potential causal genes that could be targeted for therapy.\nI hail from India and received my education there. After earning my Master’s degree in Animal Biotechnology from the University of Hyderabad, I completed my PhD at the Center for DNA Fingerprinting and Diagnostics (CDFD), Hyderabad, where I worked on early-onset sporadic rectal cancer (EOSRC) for my thesis. During this time, I developed an interest in T-cell mediated immunopathogenesis.\nCurrently, I am investigating the pathogenesis of Metabolic dysfunction-associated steatohepatitis (MASH). I am characterizing the T cell repertoire and its response in MASH using single-cell sequencing (CITEseq and TCRseq) of immune cells isolated simultaneously from the liver, blood, subcutaneous, and visceral adipose tissues in a cohort of mild to moderate MASH patients.\nBeyond the lab, I enjoy sharing my knowledge and enthusiasm for science with students and people in various communities."
   }
 ]

@@ -4,25 +4,25 @@ project:
 
 website:
   title: ""
-  page-footer: "*Either die doing wet lab research or live long enough to do some computational research*"
+  page-footer: "*Either die doing wet lab work or live long enough to do some computational work*"
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: home
       - href: about.qmd
-        text: About
+        text: about
       - href: ResearchExperience.qmd
-        text: Experience
+        text: experience
       - href: Skills.qmd
-        text: Skills
+        text: skills
       - href: Blog.qmd
-        text: Blog
+        text: blog
       - href: Presentations.qmd
-        text: Presentations
+        text: presentations
       - href: FellowshipsAwards.qmd
-        text: Fellowships & Awards
+        text: fellowships & awards
       - href: OutreachActivities.qmd
-        text: Outreach Activities
+        text: outreach activities
 
 format:
   html:

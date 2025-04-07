@@ -1,9 +1,6 @@
 ---
-title: "About"
+title: "about"
 ---
+I am a researcher skilled in both wet lab and computational approaches, specialising in handling and analysing human clinical samples to identify targetable causal genes for therapeutic purposes. Hailing from India, I pursued my education within the country., earning a Master’s degree in Animal Biotechnology from the University of Hyderabad. I later pursued a PhD at the Center for DNA Fingerprinting and Diagnostics (CDFD), Hyderabad, where my research focused on early-onset sporadic rectal cancer (EOSRC), during which I developed an interest in T-cell-mediated immunopathogenesis.
 
-About this site
-
-```{r}
-1 + 1
-```
+Currently, my work centers on understanding the pathogenesis of Metabolic dysfunction-associated steatohepatitis (MASH). I am exploring the T cell repertoire and its responses in MASH using single-cell sequencing (CITEseq and TCRseq) to analyse immune cells of liver, blood, subcutaneous, and visceral adipose tissues of patients with mild to moderate MASH. Beyond my research, I am passionate about sharing scientific knowledge and inspiring curiosity within various communities and among students.

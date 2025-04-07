@@ -30,11 +30,12 @@ My current research focuses on understanding T cells involvement in the liver, a
 
 ## Interests
 
+- T cells
+- Organoids
 - Single Cell Multi-Omics  
 - Spatial Transcriptomics & Proteomics  
 - Adaptive Immune Receptor Repertoire  
-- T cells
-- Organoids
+
 
 ---
 
@@ -42,7 +43,7 @@ My current research focuses on understanding T cells involvement in the liver, a
 
 **PhD in Molecular Oncology**  
 Manipal Academy of Higher Education, India  
-July 2012 – Oct 2015
+July 2012 – Oct 2018
 
 **M.Sc in Animal Biotechnology**  
 University of Hyderabad, India  
