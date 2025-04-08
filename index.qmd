@@ -21,34 +21,33 @@ about:
       text: Email
       href: mailto:tumorscholar@gmail.com
 ---
-::: {.justify-text}
-I am an enterprising biomedical research scientist dedicated to dissect the role of T cells in disease outcomes.
-My current research focuses on understanding T cells involvement in the liver, adipose tissues, and blood of patients with early-stage liver fibrosis. Through this work, I aim to advance our understanding of the early-stage liver fibrosis drivers and contribute to the development of innovative therapeutic strategies.
+
+::: justify-text
+I am an enterprising biomedical research scientist dedicated to dissect the role of T cells in disease outcomes. My current research focuses on understanding T cells involvement in the liver, adipose tissues, and blood of patients with early-stage liver fibrosis. Through this work, I aim to advance our understanding of the early-stage liver fibrosis drivers and contribute to the development of innovative therapeutic strategies.
 :::
 
 ------------------------------------------------------------------------
 
 ## Interests
 
-- T cells
-- Organoids
-- Single Cell Multi-Omics  
-- Spatial Transcriptomics & Proteomics  
-- Adaptive Immune Receptor Repertoire  
+-   T cells
+-   Organoids
+-   Single Cell Multi-Omics\
+-   Spatial Transcriptomics & Proteomics\
+-   Adaptive Immune Receptor Repertoire
 
-
----
+------------------------------------------------------------------------
 
 ## Education
 
-**PhD in Molecular Oncology**  
-Manipal Academy of Higher Education, India  
+**PhD in Molecular Oncology**\
+Manipal Academy of Higher Education, India\
 July 2012 – Oct 2018
 
-**M.Sc in Animal Biotechnology**  
-University of Hyderabad, India  
+**M.Sc in Animal Biotechnology**\
+University of Hyderabad, India\
 Aug 2010 – July 2012
 
-**B.Sc (Honours) in Biotechnology**  
-Magadh University, Bodhgaya, India  
+**B.Sc (Honours) in Biotechnology**\
+Magadh University, Bodhgaya, India\
 Aug 2007 – June 2010

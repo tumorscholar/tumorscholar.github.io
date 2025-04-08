@@ -1,3 +1,51 @@
 ---
 title: "skills"
 ---
+
+Certainly! Here's a professionally written version of your **Skills** section, tailored for your academic or research-focused website under a section such as *"Research Skills"* or *"Technical Expertise"*:
+
+---
+
+### **Research Skills**
+
+#### **Cell Culture Techniques**
+- **2D Culture**: Skilled in the maintenance and manipulation of human cell lines, including drug treatment, cell viability assays, transfection, viral transduction, stable clone generation, immunofluorescence assays, migration and wound healing assays.  
+- **3D Culture**: Experienced in generating spheroids and organoids, isolating and culturing immune cells, and establishing organoid–immune cell co-culture systems.
+
+#### **Molecular Biology**
+- Proficient in DNA and RNA isolation from blood, frozen, and FFPE tissues.
+- Techniques include mutation screening, denaturing urea PAGE, formaldehyde agarose gel electrophoresis, reverse transcription, quantitative PCR (qPCR), molecular cloning, site-directed mutagenesis, chromatin immunoprecipitation (ChIP), and luciferase reporter assays.
+
+#### **Protein Biology**
+- Experienced in protein extraction and purification, dialysis, SDS and native PAGE, and Western blotting for protein analysis.
+
+#### **Tumour Tissue Processing**
+- Proficient in macro-dissection of tumour epithelium, preparation of FFPE blocks, tissue sectioning, haematoxylin and eosin staining (H&E), immunohistochemistry, micro-dissection for DNA isolation, and primary tumour-derived cell line generation.
+
+#### **Genomics and Data Analysis**
+- Hands-on experience with array-based Comparative Genomic Hybridization (aCGH) and gene expression microarrays.
+- Competent in R programming for data preprocessing, normalization, clustering, CMS, SAM, and GSEA.
+- Skilled in using online tools and databases such as cBioPortal, Enrichr, UCSC Genome Browser (ENCODE), Gene Ontology, and WebGestalt.
+
+#### **Single-Cell Sequencing and Analysis**
+- Proficient in single-cell RNA-seq (scRNA-seq), CITE-seq, and TCR-seq data analysis using R and Python.
+
+#### **Biostatistics and Epidemiology**
+- Trained in clinical study design, collection and analysis of clinicopathological and survival data, hypothesis testing, and data visualization.
+
+#### **Infection Biology**
+- Hands-on experience in culturing clinical isolates of *Leishmania donovani*, infecting human cell lines, and performing related assays including DNA fragmentation, Giemsa staining, CFSE and PI staining.
+- Trained in Biosafety Level 2 (BSL-2) facility for SARS-CoV-2 diagnostics.
+
+#### **Microscopy**
+- Proficient in brightfield, phase-contrast, fluorescence, confocal, and multiplex tissue imaging.
+- Demonstrations completed in Transmission Electron Microscopy (TEM) and super-resolution microscopy.
+
+#### **Model Organisms**
+- Experienced in dissection and handling of BALB/cJ and C57BL/6J mice.
+- Familiar with *Drosophila melanogaster* techniques through advanced training.
+- Certified in “Basics of Mouse Genetics” and “Introduction to CRISPR/Cas9 and Cre-lox Technologies” from The Jackson Laboratory, USA.
+
+---
+
+Let me know if you'd like this formatted as a downloadable section or tailored for a specific platform like LinkedIn or a portfolio page.
