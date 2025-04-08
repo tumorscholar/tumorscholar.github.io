@@ -4,7 +4,7 @@ title: "skills"
 ::: justify-text
 
 **Omics**\
-Proficient in sample preparation for bulk RNA seq, single-cell RNA-seq, CITE-seq, and TCR-seq and its data analysis using R and Python.
+Proficient in sample preparation for whole exome seq, bulk RNA seq, single-cell RNA-seq, CITE-seq, and TCR-seq and its data analysis using R and Python.
 
 **Microscopy**\
 Well seasoned in brightfield, phase-contrast, fluorescence, confocal, and multiplex tissue imaging. Experienced in Transmission Electron Microscopy (TEM) and super-resolution microscopy.
