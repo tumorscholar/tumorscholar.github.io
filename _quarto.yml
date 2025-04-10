@@ -10,7 +10,7 @@ website:
       - href: index.qmd
         text: home
       - href: about.qmd
-        text: about
+        text: about me
       - href: ResearchExperience.qmd
         text: experience
       - href: Skills.qmd
@@ -21,7 +21,6 @@ website:
         text: fellowships & awards
       - href: OutreachActivities.qmd
         text: activities
-
 format:
   html:
    backgroundcolor: "lightgray"
