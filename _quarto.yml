@@ -15,6 +15,8 @@ website:
         text: experience
       - href: Skills.qmd
         text: skills
+      - href: Publications.qmd
+        text: publications
       - href: Presentations.qmd
         text: presentations
       - href: FellowshipsAwards.qmd
