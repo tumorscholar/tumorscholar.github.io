@@ -3,26 +3,22 @@ title: "fellowships & awards"
 ---
 
 ::: justify-text
-<p style="text-indent: -1.5em; margin-left: 1.5em;">
+<p style="text-indent: -22px; margin-left: 22px;">
 <img src="images/award.png" style="width:16px; height:16px; margin-right:6px; vertical-align:middle;" />The Science and Engineering Research Board (SERB), Govt of India, financial assistance through International Travel Support (ITS) scheme to attend American Association of Cancer Research (AACR) Annual Meeting 2018, Chicago.\
 </p>
 
-<img src="images/award.png" style="width:16px; height:16px; margin-right:6px; vertical-align:middle;" />
-Immunology Foundation bursary to attend American Association of Cancer Research (AACR) Annual Meeting 2018, Chicago.\
 
-<img src="images/award.png" style="width:16px; height:16px; margin-right:6px; vertical-align:middle;" />
-Best Poster Award at Research Colloquium of the Manipal Academy of Higher Education, Manipal held during 4-6 April 2016.\
+<img src="images/award.png" style="width:16px; height:16px; margin-right:6px; vertical-align:middle;" />Immunology Foundation bursary to attend American Association of Cancer Research (AACR) Annual Meeting 2018, Chicago.\
 
-<img src="images/award.png" style="width:16px; height:16px; margin-right:6px; vertical-align:middle;" />
-Qualified the Graduate Aptitude Test in Engineering (GATE) examination held in 2011 and 2012.\
+<img src="images/award.png" style="width:16px; height:16px; margin-right:6px; vertical-align:middle;" />Best Poster Award at Research Colloquium of the Manipal Academy of Higher Education, Manipal held during 4-6 April 2016.\
 
-<p style="text-indent: -1.5em; margin-left: 1.5em;">
-<img src="images/award.png" style="width:16px; height:16px; margin-right:6px; vertical-align:middle;" />
-Qualified for Council of Scientific & Industrial Research (CSIR)-Junior research fellow (JRF) examination in CSIR/UGC NET examination held in June 2011.\
+<img src="images/award.png" style="width:16px; height:16px; margin-right:6px; vertical-align:middle;" />Qualified the Graduate Aptitude Test in Engineering (GATE) examination held in 2011 and 2012.\
+
+<p style="text-indent: -22px; margin-left: 22px;">
+<img src="images/award.png" style="width:16px; height:16px; margin-right:6px; vertical-align:middle;" />Qualified for Council of Scientific & Industrial Research (CSIR)-Junior research fellow (JRF) examination in CSIR/UGC NET examination held in June 2011.\
 </p>
 
-<p style="text-indent: -1.5em; margin-left: 1.5em;">
-<img src="images/award.png" style="width:16px; height:16px; margin-right:6px; vertical-align:middle;" />
-Qualified for National Dairy Research Institute (NDRI) fellowship under Indian Council of Agricultural Research (IACR) examination held in 2010.\
+<p style="text-indent: -22px; margin-left: 22px;">
+<img src="images/award.png" style="width:16px; height:16px; margin-right:6px; vertical-align:middle;" />Qualified for National Dairy Research Institute (NDRI) fellowship under Indian Council of Agricultural Research (IACR) examination held in 2010.\
 </p>
 :::
