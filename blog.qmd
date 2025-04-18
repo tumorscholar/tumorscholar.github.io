@@ -1,16 +1,8 @@
 ---
-title: "blog"
-format: html
----
-
-# Blog
-
-Here are my latest blog posts:
-
-```{r}
-# List all blog posts (using Quarto’s blog post function)
-site.posts() |>
-  knitr::kable()
-
+title: ""
+listing:
+  contents: blog
+  sort: "date desc"
+  type: grid
 
 ---
