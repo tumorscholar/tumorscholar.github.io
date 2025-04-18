@@ -24,7 +24,7 @@ Centre for DNA Fingerprinting and Diagnostics (CDFD), India\
 July 2012 – October 2018\
 My Ph.D. research focused on characterising unique molecular subtypes of early-onset sporadic rectal cancer (EOSRC), particularly cases lacking canonical Wnt/β-catenin pathway activation, which is prevalent in over half of Indian patients with EOSRC. Using gene expression microarrays, I compared Wnt-negative and Wnt-positive tumours and identified: (a) Enrichment of Ca²⁺/NFAT signalling in Wnt-negative tumours
 (b) An eight-gene transcriptional signature distinguishing Wnt-positive from Wnt-negative tumours
-(c) XPNPEP3 as a novel transcriptional target of the Wnt/β-catenin pathway
+(c) XPNPEP3 as a novel transcriptional target of the Wnt/β-catenin pathway.
 
 **Master’s Research Project**\
 University of Hyderabad, India\
