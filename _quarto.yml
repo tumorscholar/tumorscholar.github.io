@@ -11,6 +11,8 @@ website:
         text: home
       - href: about.qmd
         text: about me
+      - href: blog.qmd
+        text: blog
       - href: ResearchExperience.qmd
         text: experience
       - href: Skills.qmd

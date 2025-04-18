@@ -10,4 +10,4 @@ format:
     toc: true
     number-sections: false
 ---
-This is my first blog post. In this post, I talk about CD8+ T cells and their emerging roles in liver fibrosis.
+This is my first blog post
