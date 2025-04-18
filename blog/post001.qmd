@@ -1,13 +1,12 @@
 ---
-title: "Debut blog"
-date: "2024-04-24"
+title: ""
+date: ""
 author: ""
-categories: [science, career, journal]
+categories: [science]
 summary: "Finally I decide to write my blog!"
-image: "images/profile_pic_low.png"  # path relative to project root
+image: ""
 format:
   html:
     toc: true
     number-sections: false
 ---
-This is my first blog post
