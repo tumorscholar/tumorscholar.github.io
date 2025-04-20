@@ -1,10 +1,11 @@
 ---
 title: "Postdoc, Pipettes, and Pages"
 date: "2025-04-24"
+slug: "Introductory-Blog"  # 👈 This sets the output file name and URL
 author: ""
 categories: [postdoc, debut]
 summary: "Postdoc, Pipettes, and Pages: A New Chapter Begins"
-image: ""  # Replace with your actual image path
+image: ""
 format:
   html:
     toc: true
