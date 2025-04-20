@@ -16,6 +16,12 @@ website:
         text: blog
       - href: research-experience.qmd
         text: experience
+      - href: skills.qmd
+        text: skills
+      - href: publications.qmd
+        text: publications
+      - href: presentations.qmd
+        text: presentations
       - href: fellowships-awards.qmd
         text: fellowships & awards
       - href: outreach-activities.qmd
