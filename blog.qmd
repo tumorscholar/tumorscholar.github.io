@@ -4,6 +4,4 @@ listing:
   contents: blog
   sort: "date desc"
   type: grid
-
-link: "introductory-blog.html"
 ---
