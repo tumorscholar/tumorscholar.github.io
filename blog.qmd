@@ -1,7 +1,7 @@
 ---
-title: ""
+title: "Blog"
 listing:
-  contents: blog
-  sort: "date desc"
-  type: grid
+  contents: blog      # This will automatically look for `.qmd` files in the `blog` folder
+  sort: "date desc"   # Sort by date descending
+  type: grid          # Display posts as a grid (you can also use `list` if you prefer)
 ---

@@ -1,0 +1,14 @@
+---
+title: "Postdoc, Pipettes, and Pages: A New Chapter Begins"
+date: "2025-04-24"
+slug: "introductory-blog"  # This sets the output filename and URL
+author: ""
+categories: [postdoc, debut]
+image: ""
+format:
+  html:
+    toc: true
+    number-sections: false
+---
+
+Here will share insights and experiences...
