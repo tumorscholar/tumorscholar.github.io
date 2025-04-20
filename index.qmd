@@ -1,4 +1,4 @@
----
+---git 
 title: "Raju Kumar"
 subtitle: "Postdoctoral Researcher<br>Professor William Alazawi Laboratory<br>Queen Mary University of London"
 image: images/profile_pic_low.jpg
