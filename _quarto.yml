@@ -13,17 +13,17 @@ website:
         text: about me
       - href: blog.qmd
         text: blog
-      - href: ResearchExperience.qmd
+      - href: research-experience.qmd
         text: experience
-      - href: Skills.qmd
+      - href: skills.qmd
         text: skills
-      - href: Publications.qmd
+      - href: publications.qmd
         text: publications
-      - href: Presentations.qmd
+      - href: presentations.qmd
         text: presentations
-      - href: FellowshipsAwards.qmd
+      - href: fellowships-awards.qmd
         text: fellowships & awards
-      - href: OutreachActivities.qmd
+      - href: outreach-activities.qmd
         text: activities
 format:
   html:
