@@ -1,5 +1,6 @@
 ---
 title: "skills"
+slug: "skills"
 ---
 ::: justify-text
 
