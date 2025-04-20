@@ -1,5 +1,6 @@
 ---
 title: "publications"
+slug: "publications"
 ---
 ::: {.justify-text}
 <p style="text-indent: -22px; margin-left: 22px;"><img src="images/book.png" style="width:16px; height:16px; margin-right:6px; vertical-align:middle;" />Sara A. George, Viswakalyan Kotapalli, Pandilla Ramaswamy, <strong>Raju Kumar</strong>, Swarnalata Gowrishankar, Shantveer G. Uppin, Murali D. Bashyam. Novel oncogenic transcriptional targets of mutant p53 in esophageal squamous cell carcinoma. <em>Journal of Cellular Biochemistry</em>, 2024;125:e30534.

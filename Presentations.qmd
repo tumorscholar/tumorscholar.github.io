@@ -1,5 +1,6 @@
 ---
 title: "presentations"
+slug: "presentations"
 ---
 
 ::: {.justify-text}
