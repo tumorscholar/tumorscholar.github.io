@@ -7,3 +7,5 @@
 
 # Ignore Quarto-related directories and files
 .quarto/
+
+/.quarto/
