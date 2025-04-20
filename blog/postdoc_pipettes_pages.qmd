@@ -4,11 +4,16 @@ date: "2025-04-24"
 slug: "introductory-blog"  # This sets the output filename and URL
 author: ""
 categories: [postdoc, debut]
-image: ""
+image: blog_images/work.png
 format:
   html:
     toc: true
     number-sections: false
 ---
 
-Here will share insights and experiences...
+Here I will share insights and experiences...
+
+<div style="display: flex; align-items: center; justify-content: flex-start;">
+  <p style="flex: 1; margin-right: 20px;">Your content goes here. The text will appear on the left side of the image.</p>
+  <img src="blog_images/work.png" style="width: 200px; height: auto; float: right; margin-left: 20px;">
+</div>

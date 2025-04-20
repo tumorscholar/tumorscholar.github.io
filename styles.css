@@ -15,7 +15,11 @@
   font-size: 2rem; /* You can adjust to 1.1rem, 16px, etc. */
 }
 
-.fas.fa-podium {
-  color: #2c3e50;
-  margin-right: 8px;
+.grid-item {
+  background-image: url('blog_images/work.png');
+  background-size: cover; /* Make sure the background covers the entire grid item */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Avoid repeating the image */
+  height: 50px; /* Set the height of the grid item */
 }
+
