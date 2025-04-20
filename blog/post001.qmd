@@ -1,9 +1,9 @@
 ---
 title: ""
-date: ""
+date: "24-04-25"
 author: ""
-categories: [science]
-summary: "Finally I decide to write my blog!"
+categories: [postdoc, debut]
+summary: "Postdoc, Pipettes, and Pages: A New Chapter Begins"
 image: ""
 format:
   html:
