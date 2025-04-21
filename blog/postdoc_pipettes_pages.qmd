@@ -1,19 +1,52 @@
 ---
 title: "Postdoc, Pipettes, and Pages: A New Chapter Begins"
 date: "2025-04-24"
-slug: "introductory-blog"  # This sets the output filename and URL
+slug: "introductory-blog"
 author: ""
-categories: [postdoc, debut]
+categories: [science, postdoc, debut blog]
 image: blog_images/work.png
 format:
   html:
     toc: true
     number-sections: false
+    css: ../styles/blog_styles.css
+
 ---
+::: justify-text
+**Hello everyone!**\
+I am a postdoctoral researcher working at the intersection of immunology and metabolism, with a focus on T cell-mediated responses in Metabolic dysfunction-associated steatotic liver disease (MASLD). It’s a niche but rapidly advancing field where immune-metabolic crosstalk is reshaping how we understand chronic diseases. My work explores how immune cells communicate across tissues like liver and adipose, uncovering pathways that drive inflammation and fibrosis in MASLD.
 
-Here I will share insights and experiences...
+<figure style="float: right; width: 400px; margin-left: 20px; margin-bottom: 10px;">
+  <img src="blog_images/work.png" alt="Liver research image" style="width: 100%; border-radius: 6px;">
+  <figcaption style="font-size: 0.85em; text-align: center; margin-top: 0.5em; color: #555;">
+    Image: My research depiction created using OpenAI tools
+  </figcaption>
+</figure>
 
-<div style="display: flex; align-items: center; justify-content: flex-start;">
-  <p style="flex: 1; margin-right: 20px;">Your content goes here. The text will appear on the left side of the image.</p>
-  <img src="blog_images/work.png" style="width: 200px; height: auto; float: right; margin-left: 20px;">
-</div>
+
+My scientific journey began in India, rooted in cancer biology, and has since led me to London, where I now investigate clinical immunology using human samples and multiomics technologies. Along the way, I have come to appreciate that science isn’t just about conducting experiments - It is also about communicating, questioning, and connecting.
+
+As someone who bridges both wet-lab experimentation and computational analysis, I constantly find myself shifting between minute technical decisions and broader conceptual frameworks. This blog is my attempt to bring those threads together - A personal and professional space to document, reflect, and share what I am learning.
+
+You can expect posts that touch on topics close to my work:
+
+<p style="text-indent: -22px; margin-left: 22px; color: navy;">
+  T cells in tissue inflammation and fibrosis
+</p>
+<p style="text-indent: -22px; margin-left: 22px; color: navy;">
+  Single-cell data analysis
+</p>
+<p style="text-indent: -22px; margin-left: 22px; color: navy;">
+  Human immunopathology in the context of liver disease
+</p>
+<p style="text-indent: -22px; margin-left: 22px; color: navy;">
+  Computational tools I have found useful (and those I am still wrestling with)
+</p>
+<p style="text-indent: -22px; margin-left: 22px; color: navy;">
+  Reflections on the postdoc experience, perspective of an international researcher
+</p>
+
+This blog will not be just a summary of what I have figured out - It will be a living archive of things I didn’t even realise I knew until I had to explain them. If you are someone who lives between code and cell culture, between curiosity and imposter syndrome - **welcome aboard**.
+
+Let us explore science not only as a discipline but as a dialogue.
+:::
