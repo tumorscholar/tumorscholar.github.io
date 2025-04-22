@@ -21,7 +21,7 @@ My scientific journey began in India, rooted in cancer biology, and has since le
 
 As someone who bridges both wet-lab experiments and computational analysis, I constantly find myself shifting between minute technical decisions - like optimising immunostaining protocols or choosing clustering parameters in Seurat - and broader conceptual questions about immune regulation and disease progression. That duality is exciting but also mentally taxing, and in the chaos of experiments and deadlines, I kept telling myself I’d start this blog “soon.”
 
-Truth is, I have been procrastinating on writing this for a long time. Not because I didn't want to - but because like many postdocs, I often felt too stretched, too unsure, or too perfectionistic to start. Between visa renewals, grant cycles, publication pressure, and the sheer unpredictability of working with human samples, finding time (and mental space) to write for myself felt like a luxury.
+Truth is, I have been procrastinating on writing this for a long time. Not because I didn't want to - but because like many postdocs, I often felt too stretched, too unsure, or too perfectionistic to start. Between visa renewals, publication pressure, and the sheer unpredictability of working with human samples, finding time (and mental space) to write for myself felt like a luxury.
 
 But I’ve come to realise that writing doesn’t have to wait for perfect clarity. In fact, this blog is an attempt to bring clarity through writing - A personal and professional space to document what I am learning, reflect on the messy parts of science, and share insights that might resonate with others walking a similar path.
 
