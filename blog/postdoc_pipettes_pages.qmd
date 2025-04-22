@@ -19,7 +19,7 @@ I am a postdoctoral researcher working at the intersection of immunology and met
 My scientific journey began in India, rooted in cancer biology, and has since led me to London, where I now investigate clinical immunology using human samples and multiomics technologies. Along the way, I have come to appreciate that science isn’t just about conducting experiments - It is also about communicating, questioning, and connecting.
 
 
-As someone who bridges both wet-lab experiments and computational analysis, I constantly find myself shifting between minute technical decisions - like optimising immunostaining protocols or choosing clustering parameters in Seurat - and broader conceptual questions about immune regulation and disease progression. That duality is exciting but also mentally taxing, and in the chaos of experiments and deadlines, I kept telling myself I’d start this blog “soon.”
+As someone who bridges both wet-lab experiments and computational analysis, I constantly find myself shifting between minute technical decisions - like optimising antibody staining or choosing clustering parameters in Seurat - and broader conceptual questions about immune regulation and disease progression. That duality is exciting but also mentally taxing, and in the chaos of experiments and deadlines, I kept telling myself I’d start this blog “soon.”
 
 Truth is, I have been procrastinating on writing this for a long time. Not because I didn't want to - but because like many postdocs, I often felt too stretched, too unsure, or too perfectionistic to start. Between visa renewals, publication pressure, and the sheer unpredictability of working with human samples, finding time (and mental space) to write for myself felt like a luxury.
 
