@@ -29,12 +29,6 @@ slug: "publications"
 <p style="text-indent: -22px; margin-left: 22px;"><img src="images/book.png" style="width:16px; height:16px; margin-right:6px; vertical-align:middle;" /><strong>Raju Kumar</strong>, Rana Ibrahim, Bassem Ben Cheikh, Emma Bailey, Hannah Cottom, Oliver Braubach, Trevor Graham, Jun Wang, Ines Sequeira. Abstract 5629: Spatial genomics and proteomics enable multimodal analyses of oral SCC clonal heterogeneity and interactions with tumor microenvironment. <em>Cancer Res</em> (2023) 83(7_Suppl): 5629.
 </p>
 
-<p style="text-indent: -22px; margin-left: 22px;"><img src="images/book.png" style="width:16px; height:16px; margin-right:6px; vertical-align:middle;" />Sara A. George, Viswakalyan Kotapalli, Raju S. Adduri, <strong>Raju Kumar</strong>, Sanjana Sarkar, Ramaswamy Pandilla, Murali D. Bashyam. Abstract 2494: Identification of novel oncogenic targets of mutant p53 in esophageal squamous cell carcinoma. <em>Cancer Res</em> (2021) 81(13_Suppl): 2494.
-</p>
-
-<p style="text-indent: -22px; margin-left: 22px;"><img src="images/book.png" style="width:16px; height:16px; margin-right:6px; vertical-align:middle;" /><strong>Raju Kumar</strong>, Ashmala Naz, Viswakalyan Kotapalli, Swarnalata Gowrishankar, Satish Rao, Jonathan R. Pollack, Murali Dharan Bashyam. Abstract 5438: XPNPEP3: A novel transcriptional target of canonical Wnt/β-catenin signalling. <em>Cancer Res</em> (2018) 78(13_Suppl): 5438.
-</p>
-
 <h4><strong>Preprint</strong></h4>
 
 <p style="text-indent: -22px; margin-left: 22px;"><img src="images/book.png" style="width:16px; height:16px; margin-right:6px; vertical-align:middle;" />Ana S Almeida, Tam T T Tran, Tarini S. Ghosh, Celine Ribiere, Cathriona Foley, Lisa A Azevedo, Paola Pellanda, Werner Frei, Cara M Hueston, <strong>Raju Kumar</strong>, Burkhardt Flemer, Inês Sequeira, Micheal O’Riordain, Fergus Shanahan, Paul W. O’Toole. Fiber-associated Lachnospiraceae reduce colon tumorigenesis by modulation of the tumor-immune microenvironment. <em>bioRxiv</em> (2021). doi: https://doi.org/10.1101/2021.02.24.432654.
