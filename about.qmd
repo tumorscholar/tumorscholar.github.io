@@ -3,7 +3,7 @@ title: "about me"
 ---
 
 ::: justify-text
-I am a multidisciplinary researcher with expertise in both wet lab and computational techniques, working extensively in the processing and analysis of human clinical samples.
+I am a multidisciplinary researcher with expertise in both wet lab and computational techniques.
 
 I was born in a small village in Bihar, India. My research journey began during my bachelor's studies at Anugrah Narayan College, Patna, where I formed lasting friendships and developed a keen interest in science. Together with friends, I embarked on Master's degree in Animal Biotechnology at the University of Hyderabad. It was during this time, inspired by the cutting-edge genomics facility at the School of Life Sciences, that I developed a strong interest in genomics.
 
