@@ -3,7 +3,7 @@ title: "Disease at the crossroads of Metabolism and Immunity - MASLD"
 date: "2025-06-28"
 author: ""
 categories: [MASLD, MASH, LIVER, DISEASE PRIMER]
-image: blog_images/work.png
+image: blog_images/masld.png
 format:
   html:
     toc: true
@@ -13,7 +13,8 @@ format:
 ---
 ::: justify-text
 **Hello everyone!**\
-Welcome back to my blog 
+Welcome back to my blog 🎉\
+Today, I am turning to a topic that sits at the core of my research: metabolic dysfunction-associated steatotic liver disease (MASLD), and the liver as a site where immune responses and metabolic stress converge with long-term consequences.\
 
 **🧠 What is MASLD and Why Should We Care?**
 
