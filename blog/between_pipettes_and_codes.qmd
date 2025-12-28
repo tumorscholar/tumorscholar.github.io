@@ -39,7 +39,7 @@ To address these questions, I work at the intersection of wet-lab immunology and
 This dual approach is powerful but demanding. Decisions made at the bench, such as antibody choice or tissue processing, directly shape what is possible downstream in analysis. Likewise, computational choices influence how we interpret biology. Moving between these layers has taught me that good science often lies not in mastering a single technique, but in understanding how methods and questions inform each other.
 
 **Why I Write About It**\
-This blog is an extension of that curiosity. It is a space to reflect on the science behind MASLD, the practical realities of research, and the intellectual tension of working between experiments and data analysis. Writing helps me slow down, connect ideas, and articulate questions that are often lost in the rush of daily lab work.
+This blog is a space to reflect on the - science I do, the practical realities of research, and the intellectual tension of working between experiments and data analysis. Writing helps me slow down, connect ideas, and articulate questions that are often lost in the rush of daily lab work.
 
 :::
 
