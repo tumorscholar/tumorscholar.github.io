@@ -1,0 +1,63 @@
+---
+title: "Chronic Inflammation as a Driver in MASLD: A Systems View"
+date: "2025-08-30"
+author: ""
+categories: [MASLD, MASH, LIVER, INFLAMMATION]
+image: blog_images/inflammation.png
+format:
+  html:
+    toc: true
+    number-sections: false
+    css: ../styles/blog_styles.css
+
+---
+::: justify-text
+**Hello everyone!**\
+Welcome to my blog 🎉\
+Today, I will describe how metabolic dysfunction-associated steatotic liver disease (MASLD) arises and is sustained over time.\
+
+Metabolic dysfunction-associated steatotic liver disease (MASLD) is often introduced as a disorder of lipid accumulation, insulin resistance, and altered energy balance. Yet beneath these metabolic hallmarks lies a quieter but persistent force that shapes disease progression over years: **chronic inflammation**. Unlike the acute, self-resolving immune responses we associate with infection, the inflammatory landscape in MASLD is low-grade, sustained, and deeply intertwined with metabolic stress.\
+
+At the systems level, MASLD emerges from a continuous dialogue between metabolism and immunity. Excess nutrient availability, altered lipid species, mitochondrial stress, and oxidative damage generate danger signals within hepatocytes. These signals do not resemble pathogens, but they are sufficient to activate innate immune sensing pathways. Stressed liver cells release damage-associated molecular patterns (DAMPs), lipotoxic metabolites, and inflammatory mediators that alert the immune system that tissue homeostasis is compromised.\
+
+The innate immune compartment is the first to respond. Liver-resident macrophages, alongside recruited monocytes, sense metabolic stress through pattern-recognition receptors and inflammasome-associated pathways. Rather than mounting a rapid, decisive response, these cells enter a state of chronic activation. Over time, this leads to sustained cytokine and chemokine production, reshaping the hepatic microenvironment and perpetuating immune cell recruitment. What begins as an adaptive response to stress gradually becomes maladaptive, reinforcing inflammation rather than resolving it.\
+
+ <figure style="float: right; width: 400px; margin-left: 20px; margin-bottom: 10px;">
+  <img src="blog_images/inflammation.png" alt="Liver research image" style="width: 100%; border-radius: 6px;">
+  <figcaption style="font-size: 0.85em; text-align: center; margin-top: 0.5em; color: #555;">
+    Image created using OpenAI tools
+  </figcaption>
+</figure>
+
+
+Importantly, this innate immune activation does not remain isolated. Persistent inflammatory signalling alters antigen presentation, co-stimulatory cues, and tissue architecture, creating conditions that engage the adaptive immune system. T cells are exposed to a liver environment that is inflamed but not infected, metabolically altered but not acutely damaged. This atypical context challenges traditional immunological frameworks and raises fundamental questions about how adaptive immunity behaves under chronic metabolic stress.\
+
+From a systems perspective, MASLD is not driven by a single cell type or pathway, but by **feedback loops** linking hepatocytes, immune cells, stromal populations, and metabolic cues. Inflammation amplifies metabolic dysfunction, which in turn sustains immune activation. Breaking this cycle requires understanding not just individual components, but how they interact over time across tissues.\
+
+Viewing MASLD through this lens reframes it as more than a liver disease. It becomes a model for studying how chronic, non-infectious inflammation emerges, stabilises, and eventually drives tissue damage. In the posts that follow, I will zoom in on specific immune players within this system, beginning with how macrophages and T cells adapt-and sometimes maladapt-to the metabolic environments they inhabit.\
+
+:::
+
+<!-- Giscus Comment Box -->
+<div id="giscus-comments" style="margin-top: 2em;">
+  <script src="https://giscus.app/client.js"
+        data-repo="tumorscholar/tumorscholar.github.io"
+        data-repo-id="R_kgDOOUGWOg"
+        data-category="General"
+        data-category-id="DIC_kwDOOUGWOs4CpdtL"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="noborder_light"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
+</div>
+
+
+
+
+

@@ -1,0 +1,68 @@
+---
+title: "Between Pipettes and Codes: Why I Study Immune Cells in MASLD"
+date: "2025-07-27"
+author: ""
+categories: [MASLD, MASH, LIVER, IMMUNE CELLS]
+image: blog_images/between_pipette_code.png
+format:
+  html:
+    toc: true
+    number-sections: false
+    css: ../styles/blog_styles.css
+
+---
+::: justify-text
+**Hello everyone!**\
+Welcome to my blog 🎉\
+Today, I will describe my research routine and the motivation behind writing about it.\
+
+Most days, my work oscillates between two very different worlds. One involves pipettes, cell lines, clinical samples, and carefully timed incubations. The other unfolds on a computer screen, navigating high-dimensional datasets, clustering algorithms, and capturing changes in immune cells. At first glance, these worlds may seem disconnected. In reality, they converge around a single question that has come to define my research: **how does the immune system drive metabolic liver disease?**
+
+I study immune cells in metabolic dysfunction-associated steatotic liver disease (MASLD), a condition characterised by excess fat accumulation in the liver driven by metabolic stress rather than alcohol consumption. MASLD is increasingly recognised as a major global health challenge, yet for many years it was viewed largely through a metabolic or hepatology lens. That perspective is now shifting. The prevalence of MASLD is rising rapidly worldwide, including in regions where it has traditionally been under-recognised. In South Asia, for instance, the disease often presents at younger ages and in individuals who may not meet classical definitions of obesity, challenging long-held assumptions about risk and disease progression and underscoring the need for research that reflects diverse populations. From an immunology standpoint, MASLD provides a compelling opportunity to rethink how immune cells behave outside the context of infection. It forces us to consider how metabolism, tissue environment, and chronic low-grade inflammation shape immune function over years rather than days, questions that extend well beyond liver disease and resonate across a wide range of chronic inflammatory conditions.
+
+What drew me in is the growing realisation that MASLD is also an immune-mediated disease.\
+
+**Why the Immune System?**\
+The liver is not just a metabolic organ; it is an immunological hub. Constantly exposed to nutrients, microbial products, and systemic signals, it relies on finely tuned immune regulation to maintain balance. In MASLD, that balance is disrupted. Hepatocytes under metabolic stress release danger signals, resident immune cells become activated, and circulating immune cells are recruited into the liver. Over time, this persistent immune activation fuels inflammation and fibrosis.\
+Among these immune players, **T cells** have emerged as particularly intriguing. Traditionally studied in infection and cancer, T cells in MASLD behave differently. They can acquire cytotoxic features, persist in inflamed tissue, and contribute directly to liver injury, even in the absence of pathogens. Understanding why this happens and how these cells are shaped by metabolic environments is a central focus of my work.\
+
+ <figure style="float: right; width: 400px; margin-left: 20px; margin-bottom: 10px;">
+  <img src="blog_images/between_pipette_code.png" alt="Liver research image" style="width: 100%; border-radius: 6px;">
+  <figcaption style="font-size: 0.85em; text-align: center; margin-top: 0.5em; color: #555;">
+    Image created using OpenAI tools
+  </figcaption>
+</figure>
+
+
+**Working Between Bench and Computation**\
+To address these questions, I work at the intersection of wet-lab immunology and high volume data analysis. On the experimental side, this involves isolating immune cells from human liver, adipose tissue, and blood, and profiling them using single-cell and multiomic technologies. On the computational side, it means making sense of thousands of cells at once, identifying patterns and relationships at single cell levels that would be invisible in bulk analyses.
+This dual approach is powerful but demanding. Decisions made at the bench, such as antibody choice or tissue processing, directly shape what is possible downstream in analysis. Likewise, computational choices influence how we interpret biology. Moving between these layers has taught me that good science often lies not in mastering a single technique, but in understanding how methods and questions inform each other.
+
+**Why I Write About It**\
+This blog is an extension of that curiosity. It is a space to reflect on the science behind MASLD, the practical realities of research, and the intellectual tension of working between experiments and data analysis. Writing helps me slow down, connect ideas, and articulate questions that are often lost in the rush of daily lab work.
+
+:::
+
+<!-- Giscus Comment Box -->
+<div id="giscus-comments" style="margin-top: 2em;">
+  <script src="https://giscus.app/client.js"
+        data-repo="tumorscholar/tumorscholar.github.io"
+        data-repo-id="R_kgDOOUGWOg"
+        data-category="General"
+        data-category-id="DIC_kwDOOUGWOs4CpdtL"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="noborder_light"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
+</div>
+
+
+
+
+

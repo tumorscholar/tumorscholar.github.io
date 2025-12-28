@@ -13,8 +13,8 @@ format:
 ---
 ::: justify-text
 **Hello everyone!**\
-Welcome back to my blog 🎉\
-Today, I am turning to a topic that sits at the core of my research: metabolic dysfunction-associated steatotic liver disease (MASLD), and the liver as a site where immune responses and metabolic stress converge with long-term consequences.\
+Welcome to my blog 🎉\
+Today, I will focus on a central theme of my research: metabolic dysfunction-associated steatotic liver disease (MASLD), a condition in which immune responses intersect with metabolic stress in the liver, leading to long-term pathological consequences.\
 
 **🧠 What is MASLD and Why Should We Care?**
 
@@ -62,7 +62,7 @@ But make no mistake, this is not a regional issue, it's a global public health p
  <figure style="float: right; width: 400px; margin-left: 20px; margin-bottom: 10px;">
   <img src="blog_images/masld.png" alt="Liver research image" style="width: 100%; border-radius: 6px;">
   <figcaption style="font-size: 0.85em; text-align: center; margin-top: 0.5em; color: #555;">
-    Image: My research depiction created using OpenAI tools
+    Image created using OpenAI tools
   </figcaption>
 </figure>
 
