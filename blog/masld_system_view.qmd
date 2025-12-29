@@ -36,7 +36,7 @@ Persistent innate immune activation does not remain isolated. Ongoing inflammato
 
 In this setting, CD8⁺ T cells can produce cytokines and cytotoxic mediators that contribute to hepatocyte injury, even in the absence of classical antigenic triggers. This challenges conventional immunological frameworks and raises fundamental questions about how adaptive immunity behaves under chronic metabolic stress.
 
- <figure style="float: right; width: 400px; margin-left: 20px; margin-bottom: 10px;">
+ <figure style="float: right; width: 600px; margin-left: 20px; margin-bottom: 10px;">
   <img src="blog_images/inflammation.png" alt="Liver research image" style="width: 100%; border-radius: 6px;">
   <figcaption style="font-size: 0.85em; text-align: center; margin-top: 0.5em; color: #555;">
     Image created using OpenAI tools
