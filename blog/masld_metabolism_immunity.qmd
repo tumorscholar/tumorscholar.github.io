@@ -16,19 +16,21 @@ format:
 Welcome to my blog 🎉\
 Today, I will focus on a central theme of my research: metabolic dysfunction-associated steatotic liver disease (MASLD), a condition in which immune responses intersect with metabolic stress in the liver, leading to long-term pathological consequences.\
 
-**🧠 What is MASLD and Why Should We Care?**
-
+**🧠 What is MASLD and Why Should We Care?**\
 If you have stumbled upon this as a student, a fellow researcher, or someone simply curious about chronic diseases, you are in the right place. This time, I want to talk about Metabolic dysfunction-associated steatotic liver disease (MASLD), a condition that is quietly becoming one of the biggest global health concerns yet still flies under the radar for many outside hepatology. 
 
 As someone who studies the immune system’s role in this disease, I would like to unpack what MASLD is, why it matters, especially in South Asia, and why immunologists (and biomedical scientists) at large should be paying closer attention. 
 
-**🩺 What is MASLD?**
+**🩺 What is MASLD?**\
+MASLD stands for Metabolic dysfunction-associated steatotic liver disease, and it refers to fat buildup in the liver that’s not caused by alcohol, but by metabolic problems like obesity, insulin resistance, high cholesterol, and high blood pressure.
 
-MASLD stands for Metabolic dysfunction-associated steatotic liver disease, and it refers to fat buildup in the liver that’s not caused by alcohol, but by metabolic problems like obesity, insulin resistance, high cholesterol, and high blood pressure. 
+MASLD is not just a liver problem. Metabolic stress triggers hepatocytes to release signals that recruit immune cells, including T cells. These cells, while normally protective, can contribute to chronic inflammation, damaging tissue and setting the stage for fibrosis.
+
+Understanding how T cells sense metabolic stress and respond is central to deciphering disease progression. This question drives much of my current research, as I examine tissue-specific T cell responses and how they relate to liver injury.
 
 You might have heard of it by its older name: Non-alcoholic fatty liver disease (NAFLD). But that term had problems, it defined the disease by what it wasn’t (not alcohol-related), rather than what it was (driven by metabolic dysfunction). In 2023, international experts proposed renaming and redefining the condition to better reflect its causes. Thus, MASLD became the new standard. 
 
-**MASLD includes a spectrum of liver changes:** 
+**MASLD includes a spectrum of liver changes:**\ 
 
 **Simple steatosis** – fat accumulation in liver cells (often harmless at this stage) 
 
@@ -42,18 +44,16 @@ You might have heard of it by its older name: Non-alcoholic fatty liver disease 
 **MASLD can progress silently over years or decades, often without symptoms, until liver damage is advanced.** 
 
  
-**🌍 Why MASLD Is a Global Concern  and Why Immunologists Should Care** 
-
+**🌍 Why MASLD Is a Global Concern  and Why Immunologists Should Care**\ 
 Most people still associate fatty liver disease with the West, fast food, sedentary lifestyles, and rising obesity. But that narrative is outdated. Metabolic dysfunction-associated steatotic liver disease (MASLD) is rapidly becoming a worldwide health challenge, with serious implications for both developed and developing nations. 
 
  
-**📊 The Bigger Picture**
-
+**📊 The Bigger Picture**\
 Globally, MASLD affects approximately 38% of adults and up to 14% of children and adolescents. By 2040, its prevalence is projected to rise by over 55% in adults. It is tightly linked to type 2 diabetes, cardiovascular risk, and, increasingly, early-onset liver fibrosis and cancer. 
 
 What’s especially concerning is that this burden is growing disproportionately in low and middle-income countries, including those in South Asia, Latin America, and the Middle East regions already facing healthcare disparities. 
 
-For instance, in urban South Asia, strikingly, the disease often emerges at younger ages, in people’s 30s or 40s. And unlike the classic picture in the West, many South Asian patients are not obese by BMI. Instead, they present with the so-called “thin-fat” phenotype, individuals who appear lean but have high visceral fat and insulin resistance. 
+For instance, in urban South Asia, strikingly, the disease often emerges at younger ages, in people’s 30s or 40s. And unlike the classic picture in the West, many South Asian patients are not obese by BMI. Instead, they present with the so-called “thin-fat” phenotype, individuals who appear lean but have high visceral fat and insulin resistance.
 
 Add to that the limited access to diagnostic tools, low public awareness, and under-resourced liver care in rural and peri-urban settings, and the result is that MASLD often goes undiagnosed until it has progressed to advanced fibrosis or cirrhosis. 
 
@@ -67,33 +67,25 @@ But make no mistake, this is not a regional issue, it's a global public health p
 </figure>
 
 
-**🔬 Why Should Immunologists Care?** 
-
+**🔬 Why Should Immunologists Care?**\ 
 So far, MASLD might sound like a metabolic or hepatology problem. But here’s the turning point: MASLD is also an immune-mediated disease. 
 
  
 Let’s unpack that: 
 
-**🧩 1. Chronic Inflammation is Central**
-
+**🧩 1. Chronic Inflammation is Central**\
 As hepatocytes accumulate fat, they undergo stress and signal danger. This activates the immune system, and macrophages, monocytes, and T cells infiltrate the liver, releasing cytokines that promote inflammation and fibrosis. 
 
  
-
-**🧠 2. T Cells as Emerging Drivers**
-
+**🧠 2. T Cells as Emerging Drivers**\
 Studies, including mine (using single-cell RNA and TCR sequencing), show that CD8+ T cells play a key role in disease progression. These cells can become cytotoxic and contribute to liver injury, even in the absence of infection. 
 
  
-
-**🧵 3. Fibrosis is an Immune-Stromal Story**
-
+**🧵 3. Fibrosis is an Immune-Stromal Story**\
 The scarring seen in advanced MASLD is driven by immune-stromal interactions. Neighbouring immune cells activate hepatic stellate cells, which then produce fibrous matrix proteins like collagen. 
 
- 
 
-**🌐 The Research Gap: Underrepresented Populations** 
-
+**🌐 The Research Gap: Underrepresented Populations**\ 
 Although MASLD is global, most immunology and translational research is heavily skewed toward Western populations. That’s a serious limitation. We need to ask: 
 
 Do immune responses in MASLD differ across ethnicities or body types? 
@@ -106,14 +98,12 @@ Are fibrosis trajectories different in South Asian, African, or Indigenous popul
 These are not just academic questions, they are central to precision medicine and equitable healthcare. Without inclusive datasets and region-specific insights, global MASLD management will remain incomplete. 
 
 
-**✍️ Why I Care - and Why You Might Too**
-
+**✍️ Why I Care - and Why You Might Too**\
 As a researcher originally from India and currently working in London, I sit at the intersection of two worlds, one rich in cutting-edge immunology tools, and another facing a rising burden of metabolic disease with fewer resources to fight it. 
 
 My current work focuses on T cell-mediated immune responses in MASLD across tissues like liver, visceral fat, and blood, using single-cell multiomics to dissect disease mechanisms. But the more I study this field, the clearer it becomes: MASLD is not just a liver disease; it's a systems immunology challenge. 
 
 If you are an immunologist working on cancer, infection, or autoimmunity, this is an invitation to expand your lens. The liver-fat-immune axis is ripe for exploration, and cross-disciplinary insights are exactly what MASLD research needs right now. 
-
 
 :::
 

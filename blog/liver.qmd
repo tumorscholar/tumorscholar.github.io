@@ -15,12 +15,17 @@ format:
 **Hello everyone!**\
 Welcome to my blog 🎉\
 Today, I want to shift the focus slightly not away from science, but deeper into one of the organs at the heart of it all: the liver.\
-The liver is one of the most vital, complex, and fascinating organs in the human body. It processes everything we eat or drink, filters toxins, stores energy, regulates immunity, and can regenerate itself like no other organ. Despite all this, the liver often remains in the scientific and public shadow. But not always: ancient cultures recognised its power in ways modern medicine is only beginning to understand. This post explores the rich interplay of liver mythology, biology, and modern science: Prometheus's eternal punishment to today’s fight against metabolic liver disease.
-
+The liver is one of the most vital, complex, and fascinating organs in the human body. It processes everything we eat or drink, filters toxins, stores energy, regulates immunity, and can regenerate itself like no other organ. Beyond its metabolic roles liver is an immune hub, hosting immune cells like T cells that monitor tissue health. Despite all this, the liver often remains in the scientific and public shadow. But not always: ancient cultures recognised its power in ways modern medicine is only beginning to understand. This post explores the rich interplay of liver mythology, biology, and modern science: Prometheus's eternal punishment to today’s fight against metabolic liver disease.
 
 **The Liver in Ancient Belief and Myth**\
-
 In ancient *Mesopotamia*, around 2000 BCE, priests practiced hepatoscopy, a ritual of divination using the livers of sacrificed animals, most commonly sheep. They believed the liver held divine messages, and clay models, such as the Babylonian Liver Tablet from Nineveh, were used to train diviners in interpreting these sacred signs.\
+
+ <figure style="float: right; width: 400px; margin-left: 20px; margin-bottom: 10px;">
+  <img src="blog_images/prometheus.png" alt="Liver research image" style="width: 100%; border-radius: 6px;">
+  <figcaption style="font-size: 0.85em; text-align: center; margin-top: 0.5em; color: #555;">
+    Poggemann, K. G. (2013, April 20). Prometheus & Atlas. World History Encyclopedia. https://www.worldhistory.org/image/1149/prometheus--atlas/
+  </figcaption>
+</figure>
 
 Across the *Mediterranean*, the liver played a symbolic role in Greek mythology. In the tales of Prometheus, as told by Hesiod and Aeschylus, the Titan was condemned by Zeus to have his liver eaten daily by an eagle, only for it to regenerate overnight, A myth that surprisingly mirrors the liver’s real regenerative abilities.\
 
@@ -32,7 +37,6 @@ These traditions, spanning continents and millennia, highlight how cultures acro
 
 
 **The Biological Marvel of the Liver**\
-
 The liver is often described as the body’s *metabolic hub* due to its central role in processing nutrients and maintaining biochemical homeostasis. After a meal, nutrients absorbed from the gut enter the liver through the portal vein. Here, the liver converts glucose into glycogen for short-term energy storage, synthesises vital proteins such as albumin and clotting factors, and plays a pivotal role in lipid metabolism (breaking down) and distributing fats or storing them as needed. It also regulates amino acid levels and produces cholesterol, which is essential for hormone synthesis and cell membranes.\
 
 Beyond metabolism, the liver serves as the body’s primary *detoxification organ*. It breaks down potentially harmful substances including alcohol, environmental toxins, and many pharmaceutical drugs. This detoxification largely occurs through the cytochrome P450 enzyme system, which modifies lipophilic compounds to make them more water-soluble and easier to excrete. These chemical transformations are essential in preventing the accumulation of toxic substances in the body.\
@@ -41,11 +45,12 @@ Another vital function of the liver is bile production. Bile is a greenish fluid
 
 One of the most remarkable features of the liver is its ability to *regenerate*. Unlike most organs, the liver can restore its original size and function even after substantial tissue loss up to 70% in some cases. This regenerative capacity is not simply about cell replacement but involves a finely tuned response of hepatocytes (the main liver cells), supported by non-parenchymal cells such as Kupffer cells, stellate cells, and endothelial cells. Following injury or partial removal (as in liver surgery or transplantation), a cascade of molecular signals,growth factors, cytokines, and metabolic cues-triggers the proliferation of existing liver cells rather than relying on stem cell populations. This regenerative process ensures the rapid restoration of liver mass and function while maintaining its complex architecture.\
 
+Today, we understand that the liver’s immune residents are just as critical. T cells in the liver respond to stress, infection, and metabolic imbalance, influencing inflammation and fibrosis. The ancient fascination with the liver now resonates with modern immunology.\
+
 The myth of Prometheus, whose *liver regrew daily after being devoured*, turns out to echo a biological truth long before it was understood scientifically. This unique ability makes the liver not only resilient but also central to surgical and therapeutic approaches for liver disease.\
 
 
-**Reflections: Why This Matters**
-
+**Reflections: Why This Matters**\
 From divine organ to overlooked regulator, the liver deserves renewed attention. Its *central role in metabolism, immunity, and chronic disease* progression makes it not just a scientific challenge, but a public health priority. As someone from India now working in London on T cell-driven liver disease, I see this blog post as a bridge between ancient reverence and modern research, between regional need and global science.\
 
 **The liver isn’t just about detox. It’s about balance, resilience, and transformation: whether in myth or in medicine**

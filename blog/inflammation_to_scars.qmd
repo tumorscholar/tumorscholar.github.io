@@ -34,7 +34,13 @@ Once activated, hepatic stellate cells become the dominant source of extracellul
 
 
 **Adaptive Immunity Enters the Fibrotic Niche**\
-Beyond innate immune cells, adaptive immune responses increasingly shape fibrosis progression in MASLD. Infiltrating T cells contribute through both direct and indirect mechanisms. Cytotoxic CD8⁺ T cells exacerbate hepatocyte injury, amplifying danger signals that further activate stellate cells. Meanwhile, CD4⁺ T cell subsets influence the fibrotic environment through cytokine secretion, often skewing tissue repair toward pathological scarring rather than resolution.\
+Beyond innate immune cells, adaptive immune responses increasingly shape fibrosis progression in MASLD. Infiltrating T cells contribute through both direct and indirect mechanisms. T cells interact with hepatic stellate cells, macrophages, and other stromal cells to regulate collagen deposition. These immune-stromal interactions dictate whether fibrosis progresses slowly or rapidly. T cells activation, cytotoxicity, and cytokine production shape the fibrotic response. By studying these cells across liver and adipose tissue, we can uncover mechanisms that might be targeted therapeutically.\
+
+I am exploring:\
+
+Which T cell subsets correlate with early versus advanced fibrosis?\
+Can we modulate T cell activity to slow or reverse fibrosis?\
+
 
 **Fibrosis as Immunological Memory of Chronic Injury**\
 Fibrosis in MASLD is best understood not as a passive accumulation of scar tissue, but as the immunological imprint of repeated, unresolved metabolic injury. Each fibrotic band reflects cycles of immune activation, hepatocyte damage, and failed repair. The extent of fibrosis correlates strongly with clinical outcomes, including cirrhosis, portal hypertension, and hepatocellular carcinoma, making it the most powerful predictor of disease severity.\
