@@ -11,7 +11,7 @@ I am currently investigating the immunopathogenesis of Metabolic Dysfunction-Ass
 **Postdoctoral Researcher**\
 Queen Mary University of London, UK\
 November 2020 – November 2022\
-In this role, I investigated the functional and spatial intra-tumour heterogeneity in oral squamous cell carcinoma (OSCC), focusing on tumour–immune interactions that drive epithelial-to-mesenchymal transition (EMT) and tumour progression. I did sample preparation, exome sequencing data analysis, and the deep immune phenotyping of early‑stage lesions, invasive OSCC, and nodal metastases.  In parallel, I established organoids from distinct anatomical regions of the mouse oral cavity and developed organoids-T cell co-culture models to study epithelial-immune cell interactions involving CD4⁺ and CD8⁺ T cells.
+In this role, I investigated the functional and spatial intra-tumour heterogeneity in oral squamous cell carcinoma (OSCC), focusing on tumour–immune interactions that drive epithelial-to-mesenchymal transition (EMT) and tumour progression. I did laser micro-dissection, exome sequencing data analysis, and the deep immune phenotyping of early‑stage lesions, invasive OSCC, and nodal metastases.  In parallel, I established organoids from distinct anatomical regions of the mouse oral cavity and developed organoids-T cell co-culture models to study epithelial-immune cell interactions involving CD4⁺ and CD8⁺ T cells.
 
 **Postdoctoral Researcher**\
 Centre for DNA Fingerprinting and Diagnostics (CDFD), India\
