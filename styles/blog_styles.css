@@ -1,42 +1,188 @@
 
+/* ── Google Fonts (loaded via main styles.css too, but safe to repeat) ── */
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=Source+Sans+3:wght@300;400;500;600&display=swap');
+
+/* ════════════════════════════════
+   BLOG LANDING PAGE
+   (blog.qmd grid listing)
+════════════════════════════════ */
+
+/* Landing background */
 body {
-  background-color: #f9f9f9 !important;
+  background-color: #ffffff !important;
+  font-family: 'Source Sans 3', sans-serif;
 }
 
+/* Page title "blog" */
+h1.title {
+  font-family: 'EB Garamond', Georgia, serif;
+  color: #002147;
+  font-size: 2rem;
+  border-bottom: 2px solid #c8a951;
+  padding-bottom: 8px;
+  margin-bottom: 4px;
+}
+
+/* Remove all card borders and backgrounds */
+.quarto-grid-item.card,
+.quarto-grid-item,
+.card,
+.quarto-post,
+.quarto-listing .card,
+.quarto-listing-default .quarto-post {
+  background: transparent !important;
+  border: none !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+  outline: none !important;
+}
+
+.quarto-grid-item.card:hover,
+.quarto-listing .card:hover {
+  box-shadow: none !important;
+  transform: none !important;
+}
+
+/* Card title */
+.quarto-listing .card .card-title,
+.quarto-listing .card h5 {
+  font-family: 'EB Garamond', Georgia, serif !important;
+  color: #002147 !important;
+  font-size: 1.05rem !important;
+  font-weight: 600;
+  line-height: 1.35;
+}
+
+/* Card date / category */
+.quarto-listing .card .card-attribution,
+.quarto-listing .card .listing-date,
+.quarto-listing .card .card-text {
+  font-size: 0.8rem !important;
+  color: #888 !important;
+  font-family: 'Source Sans 3', sans-serif !important;
+}
+
+/* Card category chips */
+.quarto-listing .card .badge,
+.quarto-listing .card .listing-category {
+  background: #eef2f7 !important;
+  color: #002147 !important;
+  border: 1px solid #ccd9e8 !important;
+  border-radius: 3px !important;
+  font-size: 0.72rem !important;
+  font-weight: 600;
+}
+
+/* Card image — remove outline, clean radius */
+.quarto-listing .card img,
+.quarto-listing .card .card-img-top {
+  border-radius: 5px 5px 0 0 !important;
+  border: none !important;
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+/* ════════════════════════════════
+   INSIDE EACH BLOG POST
+════════════════════════════════ */
+
+/* Post background */
+body.custom-post-bg,
+.quarto-article body {
+  background-color: #ffffff !important;
+}
+
+/* Post main title */
 h1 {
-  color: navy;
+  font-family: 'EB Garamond', Georgia, serif;
+  color: #002147;
+  font-size: 2rem;
+  line-height: 1.25;
+  border-bottom: 2px solid #c8a951;
+  padding-bottom: 8px;
+  margin-bottom: 6px;
 }
 
-.blog-header {
-  background-color: navy !important;
+/* Subheadings inside post */
+h2, h3, h4 {
+  font-family: 'EB Garamond', Georgia, serif;
+  color: #002147;
 }
 
-/* Apply a light gray background only to blog posts */
-body.custom-post-bg {
-  background-color: #f9f9f9 !important;
+h2 {
+  border-bottom: 1px solid #e2e6ea;
+  padding-bottom: 5px;
+  margin-top: 32px;
 }
 
-/* Style for centered images with captions */
+/* Body text — readable Source Sans at comfortable size */
+body p,
+.quarto-article p {
+  font-family: 'Source Sans 3', sans-serif;
+  font-size: 1rem;
+  line-height: 1.85;
+  color: #2d2d2d;
+}
+
+/* Post meta (date, author, categories) */
+.quarto-title-meta,
+.quarto-title-meta-contents {
+  font-family: 'Source Sans 3', sans-serif;
+  font-size: 0.82rem;
+  color: #888;
+}
+
+/* Category tags on post */
+.quarto-categories .quarto-category {
+  background: #eef2f7 !important;
+  color: #002147 !important;
+  border: 1px solid #ccd9e8 !important;
+  border-radius: 3px !important;
+  font-size: 0.75rem !important;
+  font-weight: 600;
+  font-family: 'Source Sans 3', sans-serif;
+}
+
+/* Links inside post */
+.quarto-article a,
+article a {
+  color: #002147;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.quarto-article a:hover,
+article a:hover {
+  color: #c8a951;
+}
+
+/* ── Figures & Images (fix outline, clean styling) ── */
 .quarto-figure {
   text-align: center;
   margin: 2rem 0;
 }
 
-.quarto-figure img {
+.quarto-figure img,
+article img,
+.blog-image-container img {
   max-width: 100%;
   height: auto;
-  border-radius: 8px;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+  border-radius: 6px;
+  box-shadow: 0 4px 16px rgba(0, 0, 36, 0.10);
+  border: none !important;
+  outline: none !important;
 }
 
-.quarto-figure figcaption {
-  margin-top: 0.5rem;
-  font-size: 0.95rem;
-  color: #555;
+.quarto-figure figcaption,
+figure figcaption {
+  margin-top: 0.6rem;
+  font-size: 0.85rem;
+  color: #888;
   font-style: italic;
+  font-family: 'Source Sans 3', sans-serif;
 }
 
-/* Center image inside its container */
+/* ── Centred image helper ── */
 .blog-image-container {
   display: flex;
   justify-content: center;
@@ -45,7 +191,20 @@ body.custom-post-bg {
   height: auto;
 }
 
-img {
-  max-width: 100%;
-  max-height: 100%;
+/* ── Blockquote (for pull quotes) ── */
+blockquote {
+  border-left: 3px solid #c8a951;
+  padding: 10px 18px;
+  margin: 24px 0;
+  font-family: 'EB Garamond', serif;
+  font-style: italic;
+  font-size: 1.05rem;
+  color: #555;
+  background: #f7f8fa;
+  border-radius: 0 4px 4px 0;
+}
+
+/* ── Justify helper class ── */
+.justify-text {
+  text-align: justify;
 }
