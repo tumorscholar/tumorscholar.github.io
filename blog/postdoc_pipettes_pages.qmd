@@ -19,7 +19,7 @@ I am a postdoctoral researcher working at the intersection of immunology and met
 My scientific journey began in India, rooted in cancer biology, and has since led me to London, where I now investigate clinical immunology using human samples and multiomics technologies. Along the way, I have come to appreciate that science isn’t just about conducting experiments - It is also about communicating, questioning, and connecting.
 
 
-As someone who bridges both wet-lab experiments and computational analysis, I constantly find myself shifting between minute technical decisions - like optimising antibody staining or choosing clustering parameters in Seurat - and broader conceptual questions about immune regulation and disease progression. That duality is exciting but also mentally taxing, and in the chaos of experiments and deadlines, I kept telling myself I had start this blog “soon.”
+As someone who bridges both wet-lab experiments and computational analysis, I constantly find myself shifting between minute technical decisions - like optimising antibody staining or choosing clustering parameters in Seurat - and broader conceptual questions about immune regulation and disease progression. That duality is exciting but also mentally taxing, and in the chaos of experiments and deadlines, I kept telling myself I had to start this blog “soon.”
 
 Truth is, I have been procrastinating on writing this for a long time. Not because I didn't want to - but because like many postdocs, I often felt too stretched, too unsure, or too perfectionistic to start. Between visa renewals, publication pressure, and the sheer unpredictability of working with human samples, finding time (and mental space) to write for myself felt like a luxury.
 
@@ -35,7 +35,7 @@ But I have come to realise that writing doesn’t have to wait for perfect clari
 
 Here, you can expect posts that touch on topics close to my work:
 
-<ul style="color: navy; padding-left: 1.2em;">
+<ul style="color: #002147; padding-left: 1.2em;">
   <li>T cells in tissue inflammation and fibrosis</li>
   <li>Single-cell data analysis</li>
   <li>Human immunopathology in the context of liver disease</li>
@@ -43,7 +43,7 @@ Here, you can expect posts that touch on topics close to my work:
   <li>Reflections on the postdoc experience, perspective of an international researcher</li>
 </ul>
 
-Over the time, I will dive deeper into T cells, their behavior across tissues, and how they influence liver inflammation and fibrosis in MASLD. By sharing what I am learning, I hope to make sense of the science and maybe help others navigating similar paths.
+Over time, I will dive deeper into T cells, their behavior across tissues, and how they influence liver inflammation and fibrosis in MASLD. By sharing what I am learning, I hope to make sense of the science and maybe help others navigating similar paths.
 
 This space will not be just a summary of what I have figured out - It will be a living archive of things I didn’t even realise I knew until I had to explain them. If you are someone who lives between code and cell culture, between curiosity and imposter syndrome - **welcome aboard**.
 

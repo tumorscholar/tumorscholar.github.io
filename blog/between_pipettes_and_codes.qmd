@@ -36,12 +36,12 @@ Among these immune players, **T cells** have emerged as particularly intriguing.
 
 
 **Working Between Bench and Computation**\
-To address these questions, I work at the intersection of wet-lab immunology and high volume data analysis. Working at the intersection of wet-lab experiments and computational analysis allows me to bridge molecular detail with system-level understanding. I can track T cell populations across liver, adipose tissue, and blood, analyse their gene expression, and integrate TCR sequences to understand clonal behavior. This dual approach reveals patterns that would be invisible in bulk studies. For example, some CD8⁺ T cells may become “exhausted” yet cytotoxic, contributing to inflammation and fibrosis. Others may circulate differently or interact with stromal cells, shaping tissue remodelling.
+To address these questions, I work at the intersection of wet-lab immunology and high-volume data analysis, bridging molecular detail with system-level understanding. I can track T cell populations across liver, adipose tissue, and blood, analyse their gene expression, and integrate TCR sequences to understand clonal behavior. This dual approach reveals patterns that would be invisible in bulk studies. For example, some CD8⁺ T cells may become “exhausted” yet cytotoxic, contributing to inflammation and fibrosis. Others may circulate differently or interact with stromal cells, shaping tissue remodelling.
 
-Juggling between pipettes and codes are powerful but demanding. Decisions made at the bench, such as antibody choice or tissue processing, directly shape what is possible downstream in analysis. Likewise, computational choices influence how we interpret biology. Moving between these layers has taught me that good science often lies not in mastering a single technique, but in understanding how methods and questions inform each other.
+Juggling pipettes and code is powerful but demanding. Decisions made at the bench, such as antibody choice or tissue processing, directly shape what is possible downstream in analysis. Likewise, computational choices influence how we interpret biology. Moving between these layers has taught me that good science often lies not in mastering a single technique, but in understanding how methods and questions inform each other.
 
 **Why I Write About It**\
-This blog is a space to reflect on the -- science I do, the practical realities of research, and the intellectual tension of working between experiments and data analysis. Writing helps me slow down, connect ideas, and articulate questions that are often lost in the rush of daily lab work.
+This blog is a space to reflect on the science I do, the practical realities of research, and the intellectual tension of working between experiments and data analysis. Writing helps me slow down, connect ideas, and articulate questions that are often lost in the rush of daily lab work.
 
 :::
 

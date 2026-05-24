@@ -5,9 +5,9 @@ title: "about me"
 ::: justify-text
 I am a multidisciplinary researcher with expertise in both wet lab and computational techniques.
 
-I was born in a small village in Bihar, India. My research journey began during my bachelor's studies at Anugrah Narayan College, Patna, where I formed lasting friendships and developed a keen interest in science. Together with friends, I embarked on Master's degree in Animal Biotechnology at the University of Hyderabad. It was during this time, inspired by the cutting-edge genomics facility at the School of Life Sciences, that I developed a strong interest in genomics.
+I was born in a small village in Bihar, India. My research journey began during my bachelor's studies at Anugrah Narayan College, Patna, where I formed lasting friendships and developed a keen interest in science. Together with friends, I embarked on a Master's degree in Animal Biotechnology at the University of Hyderabad. It was during this time, inspired by the cutting-edge genomics facility at the School of Life Sciences, that I developed a strong interest in genomics.
 
-To pursue my interest, I did PhD from the Laboratory of Molecular Oncology at the Centre for DNA Fingerprinting and Diagnostics (CDFD), Hyderabad. My doctoral research focused on early-onset sporadic rectal cancer (EOSRC), where I developed a growing interest in organoids model and T cells mediated immunopathogenesis.
+To pursue my interest, I completed my PhD at the Laboratory of Molecular Oncology at the Centre for DNA Fingerprinting and Diagnostics (CDFD), Hyderabad. My doctoral research focused on early-onset sporadic rectal cancer (EOSRC), where I developed a growing interest in organoid models and T cell-mediated immunopathogenesis.
 
 Following my research at CDFD, I moved to Queen Mary University of London, where I followed my research interests and generated organoids from different regions of the mouse oral cavity and established Organoids – T cell co-culture systems.
 

@@ -34,6 +34,6 @@ title: "fellowships & awards"
 </p>
 
 <p style="text-indent: -22px; margin-left: 22px;">
-<img src="images/award.png" style="width:16px; height:16px; margin-right:6px; vertical-align:middle;" />Qualified for National Dairy Research Institute (NDRI) fellowship under Indian Council of Agricultural Research (IACR) examination held in 2010.\
+<img src="images/award.png" style="width:16px; height:16px; margin-right:6px; vertical-align:middle;" />Qualified for National Dairy Research Institute (NDRI) fellowship under Indian Council of Agricultural Research (ICAR) examination held in 2010.\
 </p>
 :::

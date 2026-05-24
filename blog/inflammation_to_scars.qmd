@@ -34,7 +34,7 @@ Once activated, hepatic stellate cells become the dominant source of extracellul
 
 
 **Adaptive Immunity Enters the Fibrotic Niche**\
-Beyond innate immune cells, adaptive immune responses increasingly shape fibrosis progression in MASLD. Infiltrating T cells contribute through both direct and indirect mechanisms. T cells interact with hepatic stellate cells, macrophages, and other stromal cells to regulate collagen deposition. These immune-stromal interactions dictate whether fibrosis progresses slowly or rapidly. T cells activation, cytotoxicity, and cytokine production shape the fibrotic response. By studying these cells across liver and adipose tissue, we can uncover mechanisms that might be targeted therapeutically.\
+Beyond innate immune cells, adaptive immune responses increasingly shape fibrosis progression in MASLD. Infiltrating T cells contribute through both direct and indirect mechanisms. T cells interact with hepatic stellate cells, macrophages, and other stromal cells to regulate collagen deposition. These immune-stromal interactions dictate whether fibrosis progresses slowly or rapidly. T cell activation, cytotoxicity, and cytokine production shape the fibrotic response. By studying these cells across liver and adipose tissue, we can uncover mechanisms that might be targeted therapeutically.\
 
 I am exploring:\
 
