@@ -60,6 +60,17 @@ a:hover {
   color: #c8a951 !important;
 }
 
+/* ── Blog listing — remove card borders ── */
+.quarto-grid-item.card,
+.quarto-grid-item,
+.quarto-listing .card {
+  background: transparent !important;
+  border: none !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+  outline: none !important;
+}
+
 /* ── TOC sidebar ── */
 #TOC .nav-link {
   color: #002147;
