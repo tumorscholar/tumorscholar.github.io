@@ -60,15 +60,100 @@ a:hover {
   color: #c8a951 !important;
 }
 
-/* ── Blog listing — remove card borders ── */
-.quarto-grid-item.card,
-.quarto-grid-item,
-.quarto-listing .card {
-  background: transparent !important;
+/* ══════════════════════════════════════
+   BLOG LISTING — Style A
+   Thumbnail left, text right, full width
+   ══════════════════════════════════════ */
+
+/* Step 1: collapse 3-col grid into single column */
+.list.grid.quarto-listing-cols-3 {
+  display: flex !important;
+  flex-direction: column !important;
+}
+
+.list.grid.quarto-listing-cols-3 .g-col-1 {
+  width: 100% !important;
+}
+
+/* Step 2: each card = horizontal row (image | body) */
+.quarto-grid-item.card {
+  display: grid !important;
+  grid-template-columns: 160px 1fr !important;
+  gap: 20px !important;
+  padding: 20px 0 !important;
   border: none !important;
+  border-bottom: 1px solid #e8eaed !important;
   border-radius: 0 !important;
   box-shadow: none !important;
-  outline: none !important;
+  background: transparent !important;
+  height: auto !important;
+}
+
+.g-col-1:last-child .quarto-grid-item.card {
+  border-bottom: none !important;
+}
+
+/* Step 3: image wrapper (p tag) — left column */
+.quarto-grid-item.card .card-img-top {
+  width: 160px !important;
+  height: 105px !important;
+  overflow: hidden !important;
+  border-radius: 5px !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/* Override the inline style="height:150px" on the img */
+.quarto-grid-item.card .card-img-top img {
+  width: 160px !important;
+  height: 105px !important;
+  object-fit: cover !important;
+  border-radius: 5px !important;
+  border: none !important;
+  box-shadow: none !important;
+  display: block !important;
+}
+
+/* Step 4: body — right column */
+.quarto-grid-item.card .card-body.post-contents {
+  padding: 0 !important;
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: flex-start !important;
+}
+
+/* Title */
+.quarto-grid-item.card .card-title.listing-title {
+  font-family: 'EB Garamond', Georgia, serif !important;
+  font-size: 1.12rem !important;
+  font-weight: 600 !important;
+  color: #002147 !important;
+  line-height: 1.35 !important;
+  margin-bottom: 6px !important;
+  border: none !important;
+}
+
+/* Description */
+.quarto-grid-item.card .card-text.listing-description {
+  font-size: 0.83rem !important;
+  color: #666 !important;
+  line-height: 1.6 !important;
+  margin-bottom: 8px !important;
+}
+
+/* Date row */
+.quarto-grid-item.card .card-attribution {
+  display: flex !important;
+  gap: 12px !important;
+  margin-top: auto !important;
+}
+
+.quarto-grid-item.card .listing-date {
+  font-size: 0.72rem !important;
+  color: #aaa !important;
+  font-family: 'Source Sans 3', sans-serif !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.04em !important;
 }
 
 /* ── Blog listing — Style A: thumbnail left, text right ── */
