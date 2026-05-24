@@ -28,10 +28,10 @@ website:
         text: activities
 format:
   html:
-   backgroundcolor: "lightgray"
-   fontcolor: "black"
-   linkcolor: "black"
-   mainfont: "sans-serif"
+   backgroundcolor: "#ffffff"
+   fontcolor: "#1a1a1a"
+   linkcolor: "#002147"
+   mainfont: "Source Sans 3, sans-serif"
    fontsize: 18px
    theme: cosmo
    css: styles.css

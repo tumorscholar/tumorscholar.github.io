@@ -1,4 +1,76 @@
 
+/* ── Google Fonts ── */
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=Source+Sans+3:wght@300;400;500;600&display=swap');
+
+/* ── Base fonts ── */
+body {
+  font-family: 'Source Sans 3', sans-serif;
+  background-color: #ffffff !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'EB Garamond', Georgia, serif;
+  color: #002147;
+}
+
+/* ── Navbar: Oxford Blue ── */
+.navbar {
+  background-color: #002147 !important;
+  border-bottom: 3px solid #c8a951;
+}
+
+.navbar-brand,
+.navbar .nav-link {
+  color: rgba(255, 255, 255, 0.80) !important;
+  font-family: 'Source Sans 3', sans-serif;
+}
+
+.navbar .nav-link:hover,
+.navbar .nav-link.active {
+  color: #c8a951 !important;
+}
+
+/* ── Section headings: gold underline rule ── */
+h2 {
+  border-bottom: 2px solid #c8a951;
+  padding-bottom: 6px;
+  margin-bottom: 16px;
+}
+
+/* ── Links ── */
+a {
+  color: #002147;
+}
+a:hover {
+  color: #1a4a7a;
+  text-decoration: underline;
+}
+
+/* ── Footer: Oxford Blue ── */
+.nav-footer,
+.page-footer {
+  background-color: #002147 !important;
+  color: rgba(255, 255, 255, 0.75) !important;
+  font-family: 'Source Sans 3', sans-serif;
+  font-size: 0.9rem;
+}
+
+.nav-footer a,
+.page-footer a {
+  color: #c8a951 !important;
+}
+
+/* ── TOC sidebar ── */
+#TOC .nav-link {
+  color: #002147;
+  font-family: 'Source Sans 3', sans-serif;
+  font-size: 0.85rem;
+}
+#TOC .nav-link.active,
+#TOC .nav-link:hover {
+  color: #c8a951;
+}
+
 .justify-text {
   text-align: justify;
 }
