@@ -25,7 +25,7 @@ Persistent inflammation creates a cytokine-rich microenvironment that continuous
 **Hepatic Stellate Cells: From Repair to Pathological Scarring**\
 Once activated, hepatic stellate cells become the dominant source of extracellular matrix components, including collagen I and III, fibronectin, and laminin. Crucially, their activation is maintained by ongoing immune input, rather than being a transient wound-healing response. Inflammatory cytokines such as TNF and IL-1β promote stellate cell survival and proliferation, while chemokines produced by activated HSCs recruit additional immune cells, reinforcing a self-perpetuating fibro-inflammatory loop.\
 
- <figure style="width: 75%; max-width: 720px; margin: 2em auto; display: block; text-align: center;">
+ <figure style="width: 90%; max-width: 900px; margin: 2em auto; display: block; text-align: center;">
   <img src="blog_images/fibrosis.png" alt="Inflammation to scars — fibrogenesis in MASLD" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 18px rgba(0,0,0,0.12);">
   <figcaption style="font-size: 0.85em; text-align: center; margin-top: 0.5em; color: #555;">
     Image created using Google Gemini
