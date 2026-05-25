@@ -153,6 +153,101 @@ window.Quarto = {
   }
 }
 </style>
+
+<style id="pro-card-styles">
+/* === Professional Card Layout === */
+.quarto-grid-item.card {
+  border: none !important;
+  border-radius: 12px !important;
+  overflow: hidden !important;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.08) !important;
+  transition: box-shadow 0.2s ease, transform 0.2s ease !important;
+  background: #fff !important;
+  display: flex !important;
+  flex-direction: column !important;
+}
+.quarto-grid-item.card:hover {
+  box-shadow: 0 6px 24px rgba(0,0,0,0.14) !important;
+  transform: translateY(-3px) !important;
+}
+
+/* Full-width image on top */
+.quarto-grid-item .card-img-top {
+  width: 100% !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  flex-shrink: 0 !important;
+}
+.quarto-grid-item .card-img-top img,
+.quarto-grid-item .thumbnail-image {
+  width: 100% !important;
+  height: 180px !important;
+  object-fit: cover !important;
+  display: block !important;
+  border-radius: 0 !important;
+}
+
+/* Card body */
+.quarto-grid-item .card-body {
+  padding: 1rem 1.1rem 1.2rem !important;
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 0.5rem !important;
+  flex: 1 !important;
+}
+
+/* Title */
+.quarto-grid-item .card-title.listing-title {
+  font-size: 0.97rem !important;
+  font-weight: 700 !important;
+  line-height: 1.35 !important;
+  margin: 0 !important;
+  color: #0d1b2a !important;
+}
+
+/* Category badge */
+.quarto-grid-item .listing-categories {
+  display: flex !important;
+  flex-wrap: wrap !important;
+  gap: 0.35rem !important;
+  margin: 0 !important;
+}
+.quarto-grid-item .listing-category {
+  font-size: 0.68rem !important;
+  font-weight: 600 !important;
+  letter-spacing: 0.06em !important;
+  text-transform: uppercase !important;
+  background: #f0f4ff !important;
+  color: #2a4a8f !important;
+  border-radius: 20px !important;
+  padding: 3px 10px !important;
+  cursor: pointer !important;
+  border: none !important;
+}
+
+/* Excerpt text */
+.quarto-grid-item .card-text.listing-description {
+  font-size: 0.82rem !important;
+  color: #555 !important;
+  line-height: 1.55 !important;
+  margin: 0 !important;
+  display: -webkit-box !important;
+  -webkit-line-clamp: 3 !important;
+  -webkit-box-orient: vertical !important;
+  overflow: hidden !important;
+}
+
+/* Remove underline from card link */
+a.quarto-grid-link {
+  text-decoration: none !important;
+  color: inherit !important;
+}
+
+/* Grid gap */
+.list.grid.quarto-listing-cols-3 {
+  gap: 1.4rem !important;
+}
+</style>
 </head>
 
 <body class="nav-fixed">
@@ -216,7 +311,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(6)</span></div><div class="category" data-category="Computational Corner">Computational Corner <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Immunology &amp; The Lab">Immunology &amp; The Lab <span class="quarto-category-count">(4)</span></div><div class="category" data-category="Postdoc Diaries">Postdoc Diaries <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(6)</span></div><div class="category" data-category="Computational Corner">Computational Corner <span class="quarto-category-count">(1)</span></div><div class="category" data-category="MASLD &amp; Liver Disease">MASLD &amp; Liver Disease <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Immunology &amp; The Lab">Immunology &amp; The Lab <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Postdoc Diaries">Postdoc Diaries <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content column-page-left" id="quarto-document-content">
 
@@ -283,7 +378,7 @@ document.addEventListener("DOMContentLoaded", function () {
 <div class="list grid quarto-listing-cols-3">
 <div class="g-col-1" data-index="0" data-categories="Immunology &amp; The Lab" data-listing-date-sort="1759014000000" data-listing-file-modified-sort="1779721756137" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="608">
 <a href="./blog/inflammation_to_scars.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
+<div class="quarto-grid-item card h-100">
 <p class="card-img-top">
 <img loading="lazy" src="./blog/blog_images/cover_fibrosis.png" class="thumbnail-image card-img" style="height: 220px; object-fit: cover;">
 </p>
@@ -316,7 +411,7 @@ Sep 28, 2025
 </div>
 <div class="g-col-1" data-index="1" data-categories="Immunology &amp; The Lab" data-listing-date-sort="1756508400000" data-listing-file-modified-sort="1779721748006" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="680">
 <a href="./blog/masld_system_view.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
+<div class="quarto-grid-item card h-100">
 <p class="card-img-top">
 <img loading="lazy" src="./blog/blog_images/cover_inflammation.png" class="thumbnail-image card-img" style="height: 220px; object-fit: cover;">
 </p>
@@ -349,7 +444,7 @@ Aug 30, 2025
 </div>
 <div class="g-col-1" data-index="2" data-categories="Computational Corner" data-listing-date-sort="1753570800000" data-listing-file-modified-sort="1779721774412" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="753">
 <a href="./blog/between_pipettes_and_codes.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
+<div class="quarto-grid-item card h-100">
 <p class="card-img-top">
 <img loading="lazy" src="./blog/blog_images/cover_pipettes.png" class="thumbnail-image card-img" style="height: 220px; object-fit: cover;">
 </p>
@@ -380,9 +475,9 @@ Jul 27, 2025
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="3" data-categories="Immunology &amp; The Lab" data-listing-date-sort="1751065200000" data-listing-file-modified-sort="1779721764159" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1129">
+<div class="g-col-1" data-index="3" data-categories="MASLD &amp; Liver Disease" data-listing-date-sort="1751065200000" data-listing-file-modified-sort="1779721764159" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1129">
 <a href="./blog/masld_metabolism_immunity.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
+<div class="quarto-grid-item card h-100">
 <p class="card-img-top">
 <img loading="lazy" src="./blog/blog_images/cover_masld.png" class="thumbnail-image card-img" style="height: 220px; object-fit: cover;">
 </p>
@@ -414,7 +509,7 @@ Jun 28, 2025
 </div>
 <div class="g-col-1" data-index="4" data-categories="Immunology &amp; The Lab" data-listing-date-sort="1746831600000" data-listing-file-modified-sort="1779721780974" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1038">
 <a href="./blog/liver.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
+<div class="quarto-grid-item card h-100">
 <p class="card-img-top">
 <img loading="lazy" src="./blog/blog_images/cover_liver.png" class="thumbnail-image card-img" style="height: 220px; object-fit: cover;">
 </p>
@@ -447,7 +542,7 @@ May 10, 2025
 </div>
 <div class="g-col-1" data-index="5" data-categories="Postdoc Diaries" data-listing-date-sort="1745449200000" data-listing-file-modified-sort="1779718582953" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="633">
 <a href="./blog/postdoc_pipettes_pages.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
+<div class="quarto-grid-item card h-100">
 <p class="card-img-top">
 <img loading="lazy" src="./blog/blog_images/cover_postdoc.png" class="thumbnail-image card-img" style="height: 220px; object-fit: cover;">
 </p>
