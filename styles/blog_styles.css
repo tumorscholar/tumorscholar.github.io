@@ -23,63 +23,93 @@ h1.title {
   margin-bottom: 4px;
 }
 
-/* Remove all card borders and backgrounds */
-.quarto-grid-item.card,
-.quarto-grid-item,
-.card,
-.quarto-post,
-.quarto-listing .card,
-.quarto-listing-default .quarto-post {
-  background: transparent !important;
+/* ── Blog listing cards ── */
+.quarto-listing-container-grid .quarto-grid-item.card {
+  background: #ffffff !important;
   border: none !important;
-  border-radius: 0 !important;
-  box-shadow: none !important;
-  outline: none !important;
+  border-radius: 10px !important;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.08) !important;
+  transition: box-shadow 0.2s ease, transform 0.2s ease !important;
+  overflow: hidden !important;
+  width: 100% !important;
 }
 
-.quarto-grid-item.card:hover,
-.quarto-listing .card:hover {
-  box-shadow: none !important;
-  transform: none !important;
+.quarto-listing-container-grid .quarto-grid-item.card:hover {
+  box-shadow: 0 6px 20px rgba(0,0,0,0.13) !important;
+  transform: translateY(-3px) !important;
 }
 
-/* Card title */
-.quarto-listing .card .card-title,
-.quarto-listing .card h5 {
+/* Card body — full width vertical stack */
+.quarto-listing-container-grid .card-body.post-contents {
+  display: flex !important;
+  flex-direction: column !important;
+  width: 100% !important;
+  padding: 1rem 1.4rem 1.1rem !important;
+  box-sizing: border-box !important;
+}
+
+/* Title — full width */
+.quarto-listing-container-grid .card-title.listing-title {
   font-family: 'EB Garamond', Georgia, serif !important;
   color: #002147 !important;
-  font-size: 1.05rem !important;
-  font-weight: 600;
-  line-height: 1.35;
+  font-size: 1.15rem !important;
+  font-weight: 700 !important;
+  line-height: 1.4 !important;
+  width: 100% !important;
+  margin: 0 0 0.5rem 0 !important;
 }
 
-/* Card date / category */
-.quarto-listing .card .card-attribution,
-.quarto-listing .card .listing-date,
-.quarto-listing .card .card-text {
-  font-size: 0.8rem !important;
-  color: #888 !important;
+/* Excerpt text */
+.quarto-listing-container-grid .card-text.listing-description {
+  font-size: 0.84rem !important;
+  color: #555 !important;
+  line-height: 1.6 !important;
+  width: 100% !important;
+  margin: 0 0 0.4rem 0 !important;
   font-family: 'Source Sans 3', sans-serif !important;
 }
 
-/* Card category chips */
-.quarto-listing .card .badge,
-.quarto-listing .card .listing-category {
+/* Date */
+.quarto-listing-container-grid .card-attribution {
+  font-size: 0.75rem !important;
+  color: #aaa !important;
+  font-family: 'Source Sans 3', sans-serif !important;
+  display: flex !important;
+  justify-content: flex-end !important;
+  width: 100% !important;
+}
+
+/* Category chips */
+.quarto-listing-container-grid .listing-categories {
+  display: flex !important;
+  flex-wrap: wrap !important;
+  gap: 0.35rem !important;
+  margin: 0 0 0.5rem 0 !important;
+  width: 100% !important;
+}
+.quarto-listing-container-grid .listing-category {
   background: #eef2f7 !important;
   color: #002147 !important;
   border: 1px solid #ccd9e8 !important;
-  border-radius: 3px !important;
-  font-size: 0.72rem !important;
-  font-weight: 600;
+  border-radius: 20px !important;
+  font-size: 0.68rem !important;
+  font-weight: 600 !important;
+  letter-spacing: 0.05em !important;
+  text-transform: uppercase !important;
+  padding: 3px 10px !important;
+  cursor: pointer !important;
 }
 
-/* Card image — remove outline, clean radius */
-.quarto-listing .card img,
-.quarto-listing .card .card-img-top {
-  border-radius: 5px 5px 0 0 !important;
-  border: none !important;
-  outline: none !important;
-  box-shadow: none !important;
+/* Listing grid — single column full width */
+.quarto-listing-container-grid .list.grid {
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 0.8rem !important;
+  width: 100% !important;
+}
+.quarto-listing-container-grid .g-col-1 {
+  width: 100% !important;
+  grid-column: unset !important;
 }
 
 /* ════════════════════════════════
