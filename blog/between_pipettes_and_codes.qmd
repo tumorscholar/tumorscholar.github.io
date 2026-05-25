@@ -27,8 +27,8 @@ What drew me in is the growing realisation that MASLD is also an immune-mediated
 The liver is not just a metabolic organ; it is an immunological hub. Constantly exposed to nutrients, microbial products, and systemic signals, it relies on finely tuned immune regulation to maintain balance. In MASLD, that balance is disrupted. Hepatocytes under metabolic stress release danger signals, resident immune cells become activated, and circulating immune cells are recruited into the liver. Over time, this persistent immune activation fuels inflammation and fibrosis.\
 Among these immune players, **T cells** have emerged as particularly intriguing. Traditionally studied in infection and cancer, T cells in MASLD behave differently. They can acquire cytotoxic features, persist in inflamed tissue, and contribute directly to liver injury, even in the absence of pathogens. Understanding why this happens and how these cells are shaped by metabolic environments is a central focus of my work.\
 
- <figure style="float: right; width: 400px; margin-left: 20px; margin-bottom: 10px;">
-  <img src="blog_images/between_pipette_code.png" alt="Pipettes and code — two worlds, one question" style="width: 100%; border-radius: 6px;">
+ <figure style="width: 75%; max-width: 720px; margin: 2em auto; display: block; text-align: center;">
+  <img src="blog_images/between_pipette_code.png" alt="Pipettes and code — two worlds, one question" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 18px rgba(0,0,0,0.12);">
   <figcaption style="font-size: 0.85em; text-align: center; margin-top: 0.5em; color: #555;">
     Image created using Google Gemini
   </figcaption>
@@ -63,8 +63,4 @@ This blog is a space to reflect on the science I do, the practical realities of 
         async>
 </script>
 </div>
-
-
-
-
 

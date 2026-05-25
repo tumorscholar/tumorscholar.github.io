@@ -59,8 +59,8 @@ Add to that the limited access to diagnostic tools, low public awareness, and un
 
 But make no mistake, this is not a regional issue, it's a global public health problem. 
 
- <figure style="float: right; width: 400px; margin-left: 20px; margin-bottom: 10px;">
-  <img src="blog_images/masld.png" alt="MASLD — metabolism and immunity" style="width: 100%; border-radius: 6px;">
+ <figure style="width: 75%; max-width: 720px; margin: 2em auto; display: block; text-align: center;">
+  <img src="blog_images/masld.png" alt="MASLD — metabolism and immunity" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 18px rgba(0,0,0,0.12);">
   <figcaption style="font-size: 0.85em; text-align: center; margin-top: 0.5em; color: #555;">
     Image created using Google Gemini
   </figcaption>
@@ -125,8 +125,5 @@ If you are an immunologist working on cancer, infection, or autoimmunity, this i
         async>
 </script>
 </div>
-
-
-
 
 

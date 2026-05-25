@@ -155,65 +155,97 @@ window.Quarto = {
 </style>
 
 <style id="pro-card-styles">
-/* === Clean List Card Layout === */
+/* ===== Blog Listing — Full-width clean cards ===== */
 .list.grid.quarto-listing-cols-1 {
   display: flex !important;
   flex-direction: column !important;
-  gap: 0.75rem !important;
+  gap: 0.8rem !important;
 }
+
+/* Card shell */
 .quarto-grid-item.card {
   border: none !important;
   border-radius: 10px !important;
-  overflow: hidden !important;
-  box-shadow: 0 1px 6px rgba(0,0,0,0.07) !important;
+  box-shadow: 0 1px 8px rgba(0,0,0,0.07) !important;
   transition: box-shadow 0.2s ease, transform 0.2s ease !important;
   background: #fff !important;
+  width: 100% !important;
 }
 .quarto-grid-item.card:hover {
-  box-shadow: 0 4px 18px rgba(0,0,0,0.12) !important;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.11) !important;
   transform: translateY(-2px) !important;
 }
-.quarto-grid-item .card-body {
-  padding: 1rem 1.3rem !important;
+
+/* Override Quarto's internal post-contents grid — make it fully vertical */
+.card-body.post-contents {
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: flex-start !important;
+  padding: 1rem 1.4rem 1.1rem !important;
+  width: 100% !important;
+  box-sizing: border-box !important;
 }
-.quarto-grid-item .card-title.listing-title {
-  font-size: 1.05rem !important;
+
+/* Title — full width */
+.card-body.post-contents .card-title.listing-title {
+  width: 100% !important;
+  font-size: 1.1rem !important;
   font-weight: 700 !important;
   line-height: 1.4 !important;
-  margin: 0 0 0.45rem 0 !important;
+  margin: 0 0 0.4rem 0 !important;
   color: #0d1b2a !important;
 }
-.quarto-grid-item .listing-categories {
+
+/* Category badge row */
+.card-body.post-contents .listing-categories {
   display: flex !important;
   flex-wrap: wrap !important;
   gap: 0.35rem !important;
-  margin-bottom: 0.5rem !important;
+  margin: 0 0 0.5rem 0 !important;
+  width: 100% !important;
 }
-.quarto-grid-item .listing-category {
+.card-body.post-contents .listing-category {
   font-size: 0.68rem !important;
   font-weight: 600 !important;
   letter-spacing: 0.06em !important;
   text-transform: uppercase !important;
-  background: #f0f4ff !important;
+  background: #eef2ff !important;
   color: #2a4a8f !important;
   border-radius: 20px !important;
-  padding: 3px 10px !important;
+  padding: 3px 11px !important;
   cursor: pointer !important;
   border: none !important;
 }
-.quarto-grid-item .card-text.listing-description {
-  font-size: 0.85rem !important;
+
+/* Excerpt — full width, 2 lines */
+.card-body.post-contents .card-text.listing-description {
+  width: 100% !important;
+  font-size: 0.84rem !important;
   color: #555 !important;
   line-height: 1.6 !important;
-  margin: 0 !important;
+  margin: 0 0 0.5rem 0 !important;
   display: -webkit-box !important;
   -webkit-line-clamp: 2 !important;
   -webkit-box-orient: vertical !important;
   overflow: hidden !important;
 }
+
+/* Date row */
+.card-body.post-contents .card-attribution {
+  width: 100% !important;
+  display: flex !important;
+  justify-content: flex-end !important;
+  font-size: 0.75rem !important;
+  color: #aaa !important;
+  margin-top: auto !important;
+  padding-top: 0.3rem !important;
+}
+
 a.quarto-grid-link {
   text-decoration: none !important;
   color: inherit !important;
+  width: 100% !important;
+  display: block !important;
 }
 </style>
 </head>
