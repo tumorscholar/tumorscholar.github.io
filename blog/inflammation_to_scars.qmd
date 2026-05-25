@@ -3,7 +3,7 @@ title: "From Inflammation to Scars: Immune-Mediated Fibrogenesis in MASLD"
 date: "2025-09-28"
 author: ""
 categories: [Immunology & The Lab]
-image: blog_images/fibrosis.png
+image: blog_images/cover_fibrosis.png
 format:
   html:
     toc: true

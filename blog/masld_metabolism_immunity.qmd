@@ -3,7 +3,7 @@ title: "Disease at the crossroads of Metabolism and Immunity - MASLD"
 date: "2025-06-28"
 author: ""
 categories: [MASLD & Liver Disease]
-image: blog_images/masld.png
+image: blog_images/cover_masld.png
 format:
   html:
     toc: true

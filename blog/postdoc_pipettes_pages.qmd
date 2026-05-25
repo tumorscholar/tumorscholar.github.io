@@ -4,7 +4,7 @@ date: "2025-04-24"
 slug: "introductory-blog"
 author: ""
 categories: [Postdoc Diaries]
-image: blog_images/work.png
+image: blog_images/cover_postdoc.png
 format:
   html:
     toc: true

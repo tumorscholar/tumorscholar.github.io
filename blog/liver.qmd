@@ -3,7 +3,7 @@ title: "From Prometheus to P450: Why the Liver Deserves Our Attention"
 date: "2025-05-10"
 author: ""
 categories: [Immunology & The Lab]
-image: blog_images/prometheus.png
+image: blog_images/cover_liver.png
 format:
   html:
     toc: true
