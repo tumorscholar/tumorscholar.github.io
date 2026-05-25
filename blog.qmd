@@ -25,7 +25,7 @@ listing:
 document.addEventListener("DOMContentLoaded", function () {
   var taglines = {
     "MASLD & Liver Disease": "awareness",
-    "Immunology & The Lab": "nerds only. you have been warned.",
+    "Immunology & The Lab": "nerds only. you have been warned",
     "Computational Corner": "single-cell · multiomics · tools",
     "Postdoc Diaries": "personal · international researcher"
   };

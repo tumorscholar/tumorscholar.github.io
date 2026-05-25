@@ -21,10 +21,7 @@ The liver is one of the most vital, complex, and fascinating organs in the human
 In ancient *Mesopotamia*, around 2000 BCE, priests practiced hepatoscopy, a ritual of divination using the livers of sacrificed animals, most commonly sheep. They believed the liver held divine messages, and clay models, such as the Babylonian Liver Tablet from Nineveh, were used to train diviners in interpreting these sacred signs.\
 
  <figure style="float: right; width: 400px; margin-left: 20px; margin-bottom: 10px;">
-  <img src="blog_images/prometheus.png" alt="Liver research image" style="width: 100%; border-radius: 6px;">
-  <figcaption style="font-size: 0.85em; text-align: center; margin-top: 0.5em; color: #555;">
-    Poggemann, K. G. (2013, April 20). Prometheus & Atlas. World History Encyclopedia. https://www.worldhistory.org/image/1149/prometheus--atlas/
-  </figcaption>
+  <img src="blog_images/liver_cover.png" alt="The liver — myth, biology and today" style="width: 100%; border-radius: 6px;">
 </figure>
 
 Across the *Mediterranean*, the liver played a symbolic role in Greek mythology. In the tales of Prometheus, as told by Hesiod and Aeschylus, the Titan was condemned by Zeus to have his liver eaten daily by an eagle, only for it to regenerate overnight — a myth that surprisingly mirrors the liver’s real regenerative abilities.\
