@@ -5,7 +5,6 @@
 /* ── Base fonts ── */
 body {
   font-family: 'Source Sans 3', sans-serif;
-  background-color: #ffffff !important;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -23,6 +22,9 @@ h1, h2, h3, h4, h5, h6 {
 .navbar .nav-link {
   color: rgba(255, 255, 255, 0.80) !important;
   font-family: 'Source Sans 3', sans-serif;
+  font-size: 0.85rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
 }
 
 .navbar .nav-link:hover,
@@ -63,6 +65,7 @@ a:hover {
 /* ══════════════════════════════════════
    BLOG LISTING — Style A
    Thumbnail left, text right, full width
+   Works on both grid and default type
    ══════════════════════════════════════ */
 
 /* Step 1: collapse 3-col grid into single column */
@@ -80,17 +83,12 @@ a:hover {
   display: grid !important;
   grid-template-columns: 160px 1fr !important;
   gap: 20px !important;
-  padding: 20px 0 !important;
+  padding: 28px 0 !important;
   border: none !important;
-  border-bottom: 1px solid #e8eaed !important;
   border-radius: 0 !important;
   box-shadow: none !important;
   background: transparent !important;
   height: auto !important;
-}
-
-.g-col-1:last-child .quarto-grid-item.card {
-  border-bottom: none !important;
 }
 
 /* Step 3: image wrapper (p tag) — left column */
@@ -158,28 +156,26 @@ a:hover {
 
 /* ── Blog listing — Style A: thumbnail left, text right ── */
 
+/* Container: single column list */
 .quarto-listing-container-default .quarto-listing-default,
 .list.quarto-listing-default {
   display: flex !important;
   flex-direction: column !important;
 }
 
+/* Each post row */
 .quarto-post {
   display: grid !important;
   grid-template-columns: 160px 1fr !important;
   grid-template-rows: auto auto !important;
   column-gap: 20px !important;
-  padding: 20px 0 !important;
-  border-bottom: 1px solid #e8eaed !important;
-  border-top: none !important;
+  padding: 28px 0 !important;
+  border: none !important;
   align-items: start !important;
   background: transparent !important;
 }
 
-.quarto-post:last-child {
-  border-bottom: none !important;
-}
-
+/* Thumbnail — spans both rows on left */
 .quarto-post .thumbnail {
   grid-column: 1 !important;
   grid-row: 1 / 3 !important;
@@ -200,6 +196,7 @@ a:hover {
   display: block !important;
 }
 
+/* Body: title + description + categories */
 .quarto-post .body {
   grid-column: 2 !important;
   grid-row: 1 !important;
@@ -250,6 +247,7 @@ a:hover {
   letter-spacing: 0.04em !important;
 }
 
+/* Metadata: date */
 .quarto-post .metadata {
   grid-column: 2 !important;
   grid-row: 2 !important;
