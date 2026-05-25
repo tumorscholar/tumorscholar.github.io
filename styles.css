@@ -84,7 +84,7 @@ a:hover {
   display: grid !important;
   grid-template-columns: 160px 1fr !important;
   gap: 20px !important;
-  padding: 28px 0 !important;
+  padding: 18px 0 !important;
   border: none !important;
   border-radius: 0 !important;
   box-shadow: none !important;
@@ -170,7 +170,7 @@ a:hover {
   grid-template-columns: 160px 1fr !important;
   grid-template-rows: auto auto !important;
   column-gap: 20px !important;
-  padding: 28px 0 !important;
+  padding: 18px 0 !important;
   border: none !important;
   align-items: start !important;
   background: transparent !important;
