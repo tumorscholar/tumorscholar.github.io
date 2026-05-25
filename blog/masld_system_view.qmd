@@ -3,7 +3,7 @@ title: "Chronic Inflammation as a Driver in MASLD: A Systems View"
 date: "2025-08-30"
 author: ""
 categories: [Immunology & The Lab]
-image: blog_images/inflammation.png
+image: blog_images/cover_inflammation.png
 format:
   html:
     toc: true

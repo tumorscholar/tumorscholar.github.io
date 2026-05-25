@@ -3,7 +3,7 @@ title: "Between Pipettes and Codes: Why I Study Immune Cells in MASLD"
 date: "2025-07-27"
 author: ""
 categories: [Computational Corner]
-image: blog_images/between_pipette_code.png
+image: blog_images/cover_pipettes.png
 format:
   html:
     toc: true
