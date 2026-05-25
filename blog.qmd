@@ -1,7 +1,9 @@
 ---
 title: "blog"
+description: "Science, code, and the messy middle of postdoc life — with a focus on MASLD and the Asian communities it quietly affects."
 listing:
-  contents: blog      # This will automatically look for `.qmd` files in the `blog` folder
-  sort: "date desc"   # Sort by date descending
-  type: default       # List layout
+  contents: blog
+  sort: "date desc"
+  type: default
+  categories: true
 ---

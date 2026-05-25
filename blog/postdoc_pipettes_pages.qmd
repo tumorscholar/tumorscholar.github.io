@@ -3,7 +3,7 @@ title: "Postdoc, Pipettes, and Pages: A New Chapter Begins"
 date: "2025-04-24"
 slug: "introductory-blog"
 author: ""
-categories: [science, postdoc, debut blog]
+categories: [Postdoc Diaries]
 image: blog_images/work.png
 format:
   html:

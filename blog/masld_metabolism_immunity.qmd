@@ -2,7 +2,7 @@
 title: "Disease at the crossroads of Metabolism and Immunity - MASLD"
 date: "2025-06-28"
 author: ""
-categories: [MASLD, MASH, LIVER, DISEASE PRIMER]
+categories: [Immunology & The Lab]
 image: blog_images/masld.png
 format:
   html:

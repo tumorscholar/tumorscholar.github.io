@@ -2,7 +2,7 @@
 title: "From Inflammation to Scars: Immune-Mediated Fibrogenesis in MASLD"
 date: "2025-09-28"
 author: ""
-categories: [MASLD, MASH, LIVER, FIBROSIS, IMMUNE CELLS]
+categories: [Immunology & The Lab]
 image: blog_images/fibrosis.png
 format:
   html:
