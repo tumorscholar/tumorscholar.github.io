@@ -3,7 +3,7 @@ title: "Between Pipettes and Codes: Why I Study Immune Cells in MASLD"
 date: "2025-07-27"
 author: ""
 categories: [Computational Corner]
-image: blog_images/cover_pipettes.png
+image: blog_images/between_pipette_code.png
 format:
   html:
     toc: true
@@ -29,6 +29,9 @@ Among these immune players, **T cells** have emerged as particularly intriguing.
 
  <figure style="float: right; width: 400px; margin-left: 20px; margin-bottom: 10px;">
   <img src="blog_images/between_pipette_code.png" alt="Pipettes and code — two worlds, one question" style="width: 100%; border-radius: 6px;">
+  <figcaption style="font-size: 0.85em; text-align: center; margin-top: 0.5em; color: #555;">
+    Image created using Google Gemini
+  </figcaption>
 </figure>
 
 

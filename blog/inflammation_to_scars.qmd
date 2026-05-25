@@ -3,7 +3,7 @@ title: "From Inflammation to Scars: Immune-Mediated Fibrogenesis in MASLD"
 date: "2025-09-28"
 author: ""
 categories: [Immunology & The Lab]
-image: blog_images/cover_fibrosis.png
+image: blog_images/fibrosis.png
 format:
   html:
     toc: true
@@ -27,6 +27,9 @@ Once activated, hepatic stellate cells become the dominant source of extracellul
 
  <figure style="float: right; width: 400px; margin-left: 20px; margin-bottom: 10px;">
   <img src="blog_images/fibrosis.png" alt="Inflammation to scars — fibrogenesis in MASLD" style="width: 100%; border-radius: 6px;">
+  <figcaption style="font-size: 0.85em; text-align: center; margin-top: 0.5em; color: #555;">
+    Image created using Google Gemini
+  </figcaption>
 </figure>
 
 

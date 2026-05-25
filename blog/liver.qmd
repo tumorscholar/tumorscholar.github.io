@@ -3,7 +3,7 @@ title: "From Prometheus to P450: Why the Liver Deserves Our Attention"
 date: "2025-05-10"
 author: ""
 categories: [Immunology & The Lab]
-image: blog_images/cover_liver.png
+image: blog_images/prometheus.png
 format:
   html:
     toc: true
@@ -23,7 +23,7 @@ In ancient *Mesopotamia*, around 2000 BCE, priests practiced hepatoscopy, a ritu
  <figure style="float: right; width: 400px; margin-left: 20px; margin-bottom: 10px;">
   <img src="blog_images/prometheus.png" alt="Prometheus &amp; Atlas" style="width: 100%; border-radius: 6px;">
   <figcaption style="font-size: 0.85em; text-align: center; margin-top: 0.5em; color: #555;">
-    Poggemann, K. G. (2013, April 20). Prometheus &amp; Atlas. World History Encyclopedia.
+    Image created using Google Gemini
   </figcaption>
 </figure>
 
