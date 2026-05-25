@@ -4,8 +4,7 @@ description: "where metabolic science meets the people it overlooks"
 listing:
   contents: blog
   sort: "date desc"
-  type: grid
-  grid-columns: 3
+  type: default
   categories: true
 ---
 
