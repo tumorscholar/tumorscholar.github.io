@@ -1,9 +1,43 @@
 ---
 title: "blog"
-description: "Science, code, and the messy middle of postdoc life — with a focus on MASLD and the Asian communities it quietly affects."
+description: "where metabolic science meets the people it overlooks"
 listing:
   contents: blog
   sort: "date desc"
   type: default
   categories: true
 ---
+
+```{=html}
+<style>
+.category-tagline {
+  font-size: 11px;
+  color: #888;
+  margin-top: 2px;
+  font-style: italic;
+  line-height: 1.3;
+}
+.quarto-listing-category .category {
+  padding-bottom: 4px;
+}
+</style>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  var taglines = {
+    "MASLD & Liver Disease": "awareness",
+    "Immunology & The Lab": "nerds only. you have been warned.",
+    "Computational Corner": "single-cell · multiomics · tools",
+    "Postdoc Diaries": "personal · international researcher"
+  };
+  document.querySelectorAll(".quarto-listing-category .category").forEach(function (el) {
+    var cat = el.getAttribute("data-category");
+    if (taglines[cat]) {
+      var tag = document.createElement("div");
+      tag.className = "category-tagline";
+      tag.textContent = taglines[cat];
+      el.appendChild(tag);
+    }
+  });
+});
+</script>
+```

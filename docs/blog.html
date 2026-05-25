@@ -6,7 +6,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="Science, code, and the messy middle of postdoc life — with a focus on MASLD and the Asian communities it quietly affects.">
+<meta name="description" content="where metabolic science meets the people it overlooks">
 
 <title>blog</title>
 <style>
@@ -204,7 +204,7 @@ window.Quarto = {
 
 <div>
   <div class="description">
-    Science, code, and the messy middle of postdoc life — with a focus on MASLD and the Asian communities it quietly affects.
+    where metabolic science meets the people it overlooks
   </div>
 </div>
 
@@ -221,6 +221,37 @@ window.Quarto = {
 </header>
 
 
+<style>
+.category-tagline {
+  font-size: 11px;
+  color: #888;
+  margin-top: 2px;
+  font-style: italic;
+  line-height: 1.3;
+}
+.quarto-listing-category .category {
+  padding-bottom: 4px;
+}
+</style>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  var taglines = {
+    "MASLD & Liver Disease": "awareness",
+    "Immunology & The Lab": "nerds only. you have been warned.",
+    "Computational Corner": "single-cell · multiomics · tools",
+    "Postdoc Diaries": "personal · international researcher"
+  };
+  document.querySelectorAll(".quarto-listing-category .category").forEach(function (el) {
+    var cat = el.getAttribute("data-category");
+    if (taglines[cat]) {
+      var tag = document.createElement("div");
+      tag.className = "category-tagline";
+      tag.textContent = taglines[cat];
+      el.appendChild(tag);
+    }
+  });
+});
+</script>
 
 
 
@@ -358,10 +389,10 @@ Jun 28, 2025
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="4" data-categories="Immunology &amp; The Lab" data-listing-date-sort="1746831600000" data-listing-file-modified-sort="1779718586341" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1039">
+<div class="quarto-post image-right" data-index="4" data-categories="Immunology &amp; The Lab" data-listing-date-sort="1746831600000" data-listing-file-modified-sort="1779720295401" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1039">
 <div class="thumbnail">
 <p><a href="./blog/liver.html" class="no-external"></a></p><a href="./blog/liver.html" class="no-external">
-<p><img loading="lazy" src="./blog/blog_images/liver.jpg" class="thumbnail-image"></p>
+<p><img loading="lazy" src="./blog/blog_images/liver_cover.png" class="thumbnail-image"></p>
 </a><p><a href="./blog/liver.html" class="no-external"></a></p>
 </div>
 <div class="body">
