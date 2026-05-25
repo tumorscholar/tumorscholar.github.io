@@ -5,6 +5,7 @@
 /* ── Base fonts ── */
 body {
   font-family: 'Source Sans 3', sans-serif;
+  background-color: #ffffff !important;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -23,8 +24,8 @@ h1, h2, h3, h4, h5, h6 {
   color: rgba(255, 255, 255, 0.80) !important;
   font-family: 'Source Sans 3', sans-serif;
   font-size: 0.85rem;
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
+  letter-spacing: 0.02em;
+  text-transform: none;
 }
 
 .navbar .nav-link:hover,
