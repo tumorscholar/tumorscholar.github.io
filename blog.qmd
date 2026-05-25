@@ -5,6 +5,7 @@ listing:
   contents: blog
   sort: "date desc"
   type: grid
+  grid-columns: 3
   categories: true
 ---
 
