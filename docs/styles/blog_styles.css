@@ -87,15 +87,18 @@ h1.title {
   margin: 0 0 0.5rem 0 !important;
   width: 100% !important;
 }
-.quarto-listing-container-grid .listing-category {
+.quarto-listing-container-grid .listing-category,
+.quarto-listing-container-default .quarto-category,
+.listing-category,
+.quarto-category {
   background: #eef2f7 !important;
   color: #002147 !important;
   border: 1px solid #ccd9e8 !important;
   border-radius: 20px !important;
-  font-size: 0.68rem !important;
+  font-size: 0.72rem !important;
   font-weight: 600 !important;
-  letter-spacing: 0.05em !important;
-  text-transform: uppercase !important;
+  letter-spacing: 0.02em !important;
+  text-transform: none !important;
   padding: 3px 10px !important;
   cursor: pointer !important;
 }
