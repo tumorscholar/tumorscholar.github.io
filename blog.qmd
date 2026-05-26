@@ -1,6 +1,5 @@
 ---
 title: "blog"
-description: "where metabolic science meets the people it overlooks"
 listing:
   contents: blog
   sort: "date desc"
