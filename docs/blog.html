@@ -6,7 +6,6 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="blog">
 
 <title>blog</title>
 <style>
@@ -79,9 +78,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -130,124 +129,6 @@ window.Quarto = {
 </script>
 
 <link rel="stylesheet" href="styles.css">
-
-<style>
-/* Force 3-column grid listing */
-.list.grid.quarto-listing-cols-1 {
-  display: grid !important;
-  grid-template-columns: 1fr !important;
-  gap: 1.2rem !important;
-}
-.list.grid.quarto-listing-cols-3 .g-col-1 {
-  grid-column: span 1 !important;
-  width: 100% !important;
-}
-@media (max-width: 900px) {
-  .list.grid.quarto-listing-cols-1 {
-    grid-template-columns: repeat(2, 1fr) !important;
-  }
-}
-@media (max-width: 600px) {
-  .list.grid.quarto-listing-cols-1 {
-    grid-template-columns: 1fr !important;
-  }
-}
-</style>
-
-<style id="pro-card-styles">
-/* ===== Blog Listing — Full-width clean cards ===== */
-.list.grid.quarto-listing-cols-1 {
-  display: flex !important;
-  flex-direction: column !important;
-  gap: 0.8rem !important;
-}
-
-/* Card shell */
-.quarto-grid-item.card {
-  border: none !important;
-  border-radius: 10px !important;
-  box-shadow: 0 1px 8px rgba(0,0,0,0.07) !important;
-  transition: box-shadow 0.2s ease, transform 0.2s ease !important;
-  background: #fff !important;
-  width: 100% !important;
-}
-.quarto-grid-item.card:hover {
-  box-shadow: 0 4px 20px rgba(0,0,0,0.11) !important;
-  transform: translateY(-2px) !important;
-}
-
-/* Override Quarto's internal post-contents grid — make it fully vertical */
-.card-body.post-contents {
-  display: flex !important;
-  flex-direction: column !important;
-  align-items: flex-start !important;
-  padding: 1rem 1.4rem 1.1rem !important;
-  width: 100% !important;
-  box-sizing: border-box !important;
-}
-
-/* Title — full width */
-.card-body.post-contents .card-title.listing-title {
-  width: 100% !important;
-  font-size: 1.1rem !important;
-  font-weight: 700 !important;
-  line-height: 1.4 !important;
-  margin: 0 0 0.4rem 0 !important;
-  color: #0d1b2a !important;
-}
-
-/* Category badge row */
-.card-body.post-contents .listing-categories {
-  display: flex !important;
-  flex-wrap: wrap !important;
-  gap: 0.35rem !important;
-  margin: 0 0 0.5rem 0 !important;
-  width: 100% !important;
-}
-.card-body.post-contents .listing-category {
-  font-size: 0.72rem !important;
-  font-weight: 600 !important;
-  letter-spacing: 0.02em !important;
-  text-transform: none !important;
-  background: #eef2ff !important;
-  color: #2a4a8f !important;
-  border-radius: 20px !important;
-  padding: 3px 10px !important;
-  cursor: pointer !important;
-  border: none !important;
-}
-
-/* Excerpt — full width, 2 lines */
-.card-body.post-contents .card-text.listing-description {
-  width: 100% !important;
-  font-size: 0.84rem !important;
-  color: #555 !important;
-  line-height: 1.6 !important;
-  margin: 0 0 0.5rem 0 !important;
-  display: -webkit-box !important;
-  -webkit-line-clamp: 2 !important;
-  -webkit-box-orient: vertical !important;
-  overflow: hidden !important;
-}
-
-/* Date row */
-.card-body.post-contents .card-attribution {
-  width: 100% !important;
-  display: flex !important;
-  justify-content: flex-end !important;
-  font-size: 0.75rem !important;
-  color: #aaa !important;
-  margin-top: auto !important;
-  padding-top: 0.3rem !important;
-}
-
-a.quarto-grid-link {
-  text-decoration: none !important;
-  color: inherit !important;
-  width: 100% !important;
-  display: block !important;
-}
-</style>
 </head>
 
 <body class="nav-fixed">
@@ -311,7 +192,7 @@ a.quarto-grid-link {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(6)</span></div><div class="category" data-category="Computational Corner">Computational Corner <span class="quarto-category-count">(1)</span></div><div class="category" data-category="MASLD &amp; Liver Disease">MASLD &amp; Liver Disease <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Immunology &amp; The Lab">Immunology &amp; The Lab <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Postdoc Diaries">Postdoc Diaries <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(7)</span></div><div class="category" data-category="Computational Corner">Computational Corner <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Immunology &amp; The Lab">Immunology &amp; The Lab <span class="quarto-category-count">(3)</span></div><div class="category" data-category="MASLD &amp; Liver Disease">MASLD &amp; Liver Disease <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Postdoc Diaries">Postdoc Diaries <span class="quarto-category-count">(2)</span></div></div></div>
 <!-- main -->
 <main class="content column-page-left" id="quarto-document-content">
 
@@ -369,190 +250,234 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
 
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="list grid quarto-listing-cols-1" style="display:flex!important;flex-direction:column!important;gap:.8rem!important;width:100%!important;">
-<div class="g-col-1" style="width:100%;display:block;" data-index="0" data-categories="Immunology &amp; The Lab" data-listing-date-sort="1759014000000" data-listing-file-modified-sort="1779721756137" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="608">
-<a href="./blog/inflammation_to_scars.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100" style="border:none;border-radius:10px;box-shadow:0 2px 10px rgba(0,0,0,0.08);transition:box-shadow .2s,transform .2s;background:#fff;width:100%;display:block;overflow:hidden;">
-<img src="./blog/blog_images/cover_fibrosis.png" alt="cover" style="width:100%;height:175px;object-fit:cover;display:block;border-radius:0;">
-<div class="card-body post-contents" style="display:block!important;width:100%!important;padding:1rem 1.4rem 1.1rem!important;box-sizing:border-box;">
-<h5 class="no-anchor card-title listing-title" style="display:block;width:100%;font-size:1.1rem;font-weight:700;line-height:1.4;margin:0 0 0.5rem 0;color:#0d1b2a;">
-From Inflammation to Scars: Immune-Mediated Fibrogenesis in MASLD
-</h5>
-<div class="listing-categories" style="display:flex;flex-wrap:wrap;gap:.35rem;margin:0 0 .5rem 0;width:100%;">
-<div class="listing-category" style="font-size:.68rem;font-weight:600;letter-spacing:.06em;text-transform:none;background:#eef2ff;color:#2a4a8f;border-radius:20px;padding:3px 11px;cursor:pointer;border:none;display:inline-block;" onclick="window.quartoListingCategory('Immunology &amp; The Lab'); return false;">
-Immunology &amp; The Lab
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="Postdoc Diaries" data-listing-date-sort="1779750000000" data-listing-file-modified-sort="1779827126275" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="10" data-listing-word-count-sort="1867">
+<div class="thumbnail">
+<p><a href="./blog/international_researcher_struggles.html" class="no-external"></a></p><a href="./blog/international_researcher_struggles.html" class="no-external">
+<p><img loading="lazy" src="./blog/blog_images/cover_science_borders.png" class="thumbnail-image"></p>
+</a><p><a href="./blog/international_researcher_struggles.html" class="no-external"></a></p>
 </div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./blog/international_researcher_struggles.html" class="no-external">Science Has No Borders — But Scientists Do</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./blog/international_researcher_struggles.html" class="no-external"></a>
 </div>
-<div class="card-text listing-description" style="display:block;width:100%;font-size:.85rem;color:#555;line-height:1.6;margin:0 0 .4rem 0;">
-<strong>Hello everyone!</strong><br>
-Welcome to my blog 🎉<br>
-Today, I will describe metabolic dysfunction-associated steatotic liver disease (MASLD) induced fibrosis and what we can learn from it.<br>
-
-</div>
-<div class="card-attribution card-text-small justify" style="display:flex;justify-content:flex-end;font-size:.75rem;color:#aaa;padding-top:.2rem;width:100%;">
-<div class="listing-author">
-
-</div>
-<div class="listing-date">
-Sep 28, 2025
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" style="width:100%;display:block;" data-index="1" data-categories="Immunology &amp; The Lab" data-listing-date-sort="1756508400000" data-listing-file-modified-sort="1779721748006" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="680">
-<a href="./blog/masld_system_view.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100" style="border:none;border-radius:10px;box-shadow:0 2px 10px rgba(0,0,0,0.08);transition:box-shadow .2s,transform .2s;background:#fff;width:100%;display:block;overflow:hidden;">
-<img src="./blog/blog_images/cover_inflammation.png" alt="cover" style="width:100%;height:175px;object-fit:cover;display:block;border-radius:0;">
-<div class="card-body post-contents" style="display:block!important;width:100%!important;padding:1rem 1.4rem 1.1rem!important;box-sizing:border-box;">
-<h5 class="no-anchor card-title listing-title" style="display:block;width:100%;font-size:1.1rem;font-weight:700;line-height:1.4;margin:0 0 0.5rem 0;color:#0d1b2a;">
-Chronic Inflammation as a Driver in MASLD: A Systems View
-</h5>
-<div class="listing-categories" style="display:flex;flex-wrap:wrap;gap:.35rem;margin:0 0 .5rem 0;width:100%;">
-<div class="listing-category" style="font-size:.68rem;font-weight:600;letter-spacing:.06em;text-transform:none;background:#eef2ff;color:#2a4a8f;border-radius:20px;padding:3px 11px;cursor:pointer;border:none;display:inline-block;" onclick="window.quartoListingCategory('Immunology &amp; The Lab'); return false;">
-Immunology &amp; The Lab
-</div>
-</div>
-<div class="card-text listing-description" style="display:block;width:100%;font-size:.85rem;color:#555;line-height:1.6;margin:0 0 .4rem 0;">
-<strong>Hello everyone!</strong><br>
-Welcome to my blog 🎉<br>
-Today, I will describe how metabolic dysfunction-associated steatotic liver disease (MASLD) arises and is sustained over time.<br>
-
-</div>
-<div class="card-attribution card-text-small justify" style="display:flex;justify-content:flex-end;font-size:.75rem;color:#aaa;padding-top:.2rem;width:100%;">
-<div class="listing-author">
-
-</div>
-<div class="listing-date">
-Aug 30, 2025
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" style="width:100%;display:block;" data-index="2" data-categories="Computational Corner" data-listing-date-sort="1753570800000" data-listing-file-modified-sort="1779721774412" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="753">
-<a href="./blog/between_pipettes_and_codes.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100" style="border:none;border-radius:10px;box-shadow:0 2px 10px rgba(0,0,0,0.08);transition:box-shadow .2s,transform .2s;background:#fff;width:100%;display:block;overflow:hidden;">
-<img src="./blog/blog_images/cover_pipettes.png" alt="cover" style="width:100%;height:175px;object-fit:cover;display:block;border-radius:0;">
-<div class="card-body post-contents" style="display:block!important;width:100%!important;padding:1rem 1.4rem 1.1rem!important;box-sizing:border-box;">
-<h5 class="no-anchor card-title listing-title" style="display:block;width:100%;font-size:1.1rem;font-weight:700;line-height:1.4;margin:0 0 0.5rem 0;color:#0d1b2a;">
-Between Pipettes and Codes: Why I Study Immune Cells in MASLD
-</h5>
-<div class="listing-categories" style="display:flex;flex-wrap:wrap;gap:.35rem;margin:0 0 .5rem 0;width:100%;">
-<div class="listing-category" style="font-size:.68rem;font-weight:600;letter-spacing:.06em;text-transform:none;background:#eef2ff;color:#2a4a8f;border-radius:20px;padding:3px 11px;cursor:pointer;border:none;display:inline-block;" onclick="window.quartoListingCategory('Computational Corner'); return false;">
-Computational Corner
-</div>
-</div>
-<div class="card-text listing-description" style="display:block;width:100%;font-size:.85rem;color:#555;line-height:1.6;margin:0 0 .4rem 0;">
-<strong>Hello everyone!</strong><br>
-Welcome to my blog 🎉<br>
-Today, I will describe my research routine and the motivation behind writing about it.<br>
-
-</div>
-<div class="card-attribution card-text-small justify" style="display:flex;justify-content:flex-end;font-size:.75rem;color:#aaa;padding-top:.2rem;width:100%;">
-<div class="listing-author">
-
-</div>
-<div class="listing-date">
-Jul 27, 2025
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" style="width:100%;display:block;" data-index="3" data-categories="MASLD &amp; Liver Disease" data-listing-date-sort="1751065200000" data-listing-file-modified-sort="1779721764159" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1129">
-<a href="./blog/masld_metabolism_immunity.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100" style="border:none;border-radius:10px;box-shadow:0 2px 10px rgba(0,0,0,0.08);transition:box-shadow .2s,transform .2s;background:#fff;width:100%;display:block;overflow:hidden;">
-<img src="./blog/blog_images/cover_masld.png" alt="cover" style="width:100%;height:175px;object-fit:cover;display:block;border-radius:0;">
-<div class="card-body post-contents" style="display:block!important;width:100%!important;padding:1rem 1.4rem 1.1rem!important;box-sizing:border-box;">
-<h5 class="no-anchor card-title listing-title" style="display:block;width:100%;font-size:1.1rem;font-weight:700;line-height:1.4;margin:0 0 0.5rem 0;color:#0d1b2a;">
-Disease at the crossroads of Metabolism and Immunity - MASLD
-</h5>
-<div class="listing-categories" style="display:flex;flex-wrap:wrap;gap:.35rem;margin:0 0 .5rem 0;width:100%;">
-<div class="listing-category" style="font-size:.68rem;font-weight:600;letter-spacing:.06em;text-transform:none;background:#eef2ff;color:#2a4a8f;border-radius:20px;padding:3px 11px;cursor:pointer;border:none;display:inline-block;" onclick="window.quartoListingCategory('MASLD &amp; Liver Disease'); return false;">
-MASLD &amp; Liver Disease
-</div>
-</div>
-<div class="card-text listing-description" style="display:block;width:100%;font-size:.85rem;color:#555;line-height:1.6;margin:0 0 .4rem 0;">
-<strong>Hello everyone!</strong><br>
-Welcome to my blog 🎉<br>
-Today, I will focus on a central theme of my research: metabolic dysfunction-associated steatotic liver disease (MASLD), a condition in…<br>
-</div>
-<div class="card-attribution card-text-small justify" style="display:flex;justify-content:flex-end;font-size:.75rem;color:#aaa;padding-top:.2rem;width:100%;">
-<div class="listing-author">
-
-</div>
-<div class="listing-date">
-Jun 28, 2025
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" style="width:100%;display:block;" data-index="4" data-categories="Immunology &amp; The Lab" data-listing-date-sort="1746831600000" data-listing-file-modified-sort="1779721780974" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1038">
-<a href="./blog/liver.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100" style="border:none;border-radius:10px;box-shadow:0 2px 10px rgba(0,0,0,0.08);transition:box-shadow .2s,transform .2s;background:#fff;width:100%;display:block;overflow:hidden;">
-<img src="./blog/blog_images/cover_liver.png" alt="cover" style="width:100%;height:175px;object-fit:cover;display:block;border-radius:0;">
-<div class="card-body post-contents" style="display:block!important;width:100%!important;padding:1rem 1.4rem 1.1rem!important;box-sizing:border-box;">
-<h5 class="no-anchor card-title listing-title" style="display:block;width:100%;font-size:1.1rem;font-weight:700;line-height:1.4;margin:0 0 0.5rem 0;color:#0d1b2a;">
-From Prometheus to P450: Why the Liver Deserves Our Attention
-</h5>
-<div class="listing-categories" style="display:flex;flex-wrap:wrap;gap:.35rem;margin:0 0 .5rem 0;width:100%;">
-<div class="listing-category" style="font-size:.68rem;font-weight:600;letter-spacing:.06em;text-transform:none;background:#eef2ff;color:#2a4a8f;border-radius:20px;padding:3px 11px;cursor:pointer;border:none;display:inline-block;" onclick="window.quartoListingCategory('Immunology &amp; The Lab'); return false;">
-Immunology &amp; The Lab
-</div>
-</div>
-<div class="card-text listing-description" style="display:block;width:100%;font-size:.85rem;color:#555;line-height:1.6;margin:0 0 .4rem 0;">
-<strong>Hello everyone!</strong><br>
-Welcome to my blog 🎉<br>
-Today, I want to shift the focus slightly not away from science, but deeper into one of the organs at the heart of it all: the liver.<br>
-Th…
-</div>
-<div class="card-attribution card-text-small justify" style="display:flex;justify-content:flex-end;font-size:.75rem;color:#aaa;padding-top:.2rem;width:100%;">
-<div class="listing-author">
-
-</div>
-<div class="listing-date">
-May 10, 2025
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" style="width:100%;display:block;" data-index="5" data-categories="Postdoc Diaries" data-listing-date-sort="1745449200000" data-listing-file-modified-sort="1779718582953" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="633">
-<a href="./blog/postdoc_pipettes_pages.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100" style="border:none;border-radius:10px;box-shadow:0 2px 10px rgba(0,0,0,0.08);transition:box-shadow .2s,transform .2s;background:#fff;width:100%;display:block;overflow:hidden;">
-<img src="./blog/blog_images/cover_postdoc.png" alt="cover" style="width:100%;height:175px;object-fit:cover;display:block;border-radius:0;">
-<div class="card-body post-contents" style="display:block!important;width:100%!important;padding:1rem 1.4rem 1.1rem!important;box-sizing:border-box;">
-<h5 class="no-anchor card-title listing-title" style="display:block;width:100%;font-size:1.1rem;font-weight:700;line-height:1.4;margin:0 0 0.5rem 0;color:#0d1b2a;">
-Postdoc, Pipettes, and Pages: A New Chapter Begins
-</h5>
-<div class="listing-categories" style="display:flex;flex-wrap:wrap;gap:.35rem;margin:0 0 .5rem 0;width:100%;">
-<div class="listing-category" style="font-size:.68rem;font-weight:600;letter-spacing:.06em;text-transform:none;background:#eef2ff;color:#2a4a8f;border-radius:20px;padding:3px 11px;cursor:pointer;border:none;display:inline-block;" onclick="window.quartoListingCategory('Postdoc Diaries'); return false;">
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Postdoc Diaries'); return false;">
 Postdoc Diaries
 </div>
 </div>
-<div class="card-text listing-description" style="display:block;width:100%;font-size:.85rem;color:#555;line-height:1.6;margin:0 0 .4rem 0;">
-<strong>Hello everyone!</strong><br>
-I am a postdoctoral researcher working at the intersection of immunology and metabolism, with a focus on T cell-mediated responses in Metabolic…
+<div class="listing-description">
+<a href="./blog/international_researcher_struggles.html" class="no-external"><strong>Hello everyone!</strong><br>
+Welcome to my blog 🎉<br>
+Today, I will share something from personal experience. As an international researcher, I live in two worlds simultaneously — one is…</a>
 </div>
-<div class="card-attribution card-text-small justify" style="display:flex;justify-content:flex-end;font-size:.75rem;color:#aaa;padding-top:.2rem;width:100%;">
-<div class="listing-author">
-
 </div>
+<div class="metadata">
+<a href="./blog/international_researcher_struggles.html" class="no-external">
+<div class="listing-date">
+May 26, 2026
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="Immunology &amp; The Lab" data-listing-date-sort="1759014000000" data-listing-file-modified-sort="1779821487756" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="647">
+<div class="thumbnail">
+<p><a href="./blog/inflammation_to_scars.html" class="no-external"></a></p><a href="./blog/inflammation_to_scars.html" class="no-external">
+<p><img loading="lazy" src="./blog/blog_images/cover_fibrosis.png" class="thumbnail-image"></p>
+</a><p><a href="./blog/inflammation_to_scars.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./blog/inflammation_to_scars.html" class="no-external">From Inflammation to Scars: Immune-Mediated Fibrogenesis in MASLD</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./blog/inflammation_to_scars.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Immunology &amp; The Lab'); return false;">
+Immunology &amp; The Lab
+</div>
+</div>
+<div class="listing-description">
+<a href="./blog/inflammation_to_scars.html" class="no-external"><strong>Hello everyone!</strong><br>
+Welcome to my blog 🎉<br>
+Today, I will describe metabolic dysfunction-associated steatotic liver disease (MASLD) induced fibrosis and what we can learn from it.<br>
+</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./blog/inflammation_to_scars.html" class="no-external">
+<div class="listing-date">
+Sep 28, 2025
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-categories="Immunology &amp; The Lab" data-listing-date-sort="1756508400000" data-listing-file-modified-sort="1779821494879" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="719">
+<div class="thumbnail">
+<p><a href="./blog/masld_system_view.html" class="no-external"></a></p><a href="./blog/masld_system_view.html" class="no-external">
+<p><img loading="lazy" src="./blog/blog_images/cover_inflammation.png" class="thumbnail-image"></p>
+</a><p><a href="./blog/masld_system_view.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./blog/masld_system_view.html" class="no-external">Chronic Inflammation as a Driver in MASLD: A Systems View</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./blog/masld_system_view.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Immunology &amp; The Lab'); return false;">
+Immunology &amp; The Lab
+</div>
+</div>
+<div class="listing-description">
+<a href="./blog/masld_system_view.html" class="no-external"><strong>Hello everyone!</strong><br>
+Welcome to my blog 🎉<br>
+Today, I will describe how metabolic dysfunction-associated steatotic liver disease (MASLD) arises and is sustained over time.<br>
+</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./blog/masld_system_view.html" class="no-external">
+<div class="listing-date">
+Aug 30, 2025
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="3" data-categories="Computational Corner" data-listing-date-sort="1753570800000" data-listing-file-modified-sort="1779742915622" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="781">
+<div class="thumbnail">
+<p><a href="./blog/between_pipettes_and_codes.html" class="no-external"></a></p><a href="./blog/between_pipettes_and_codes.html" class="no-external">
+<p><img loading="lazy" src="./blog/blog_images/cover_pipettes.png" class="thumbnail-image"></p>
+</a><p><a href="./blog/between_pipettes_and_codes.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./blog/between_pipettes_and_codes.html" class="no-external">Between Pipettes and Codes: Why I Study Immune Cells in MASLD</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./blog/between_pipettes_and_codes.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Computational Corner'); return false;">
+Computational Corner
+</div>
+</div>
+<div class="listing-description">
+<a href="./blog/between_pipettes_and_codes.html" class="no-external"><strong>Hello everyone!</strong><br>
+Welcome to my blog 🎉<br>
+Today, I will describe my research routine and the motivation behind writing about it.<br>
+</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./blog/between_pipettes_and_codes.html" class="no-external">
+<div class="listing-date">
+Jul 27, 2025
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="4" data-categories="MASLD &amp; Liver Disease" data-listing-date-sort="1751065200000" data-listing-file-modified-sort="1779742915633" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1157">
+<div class="thumbnail">
+<p><a href="./blog/masld_metabolism_immunity.html" class="no-external"></a></p><a href="./blog/masld_metabolism_immunity.html" class="no-external">
+<p><img loading="lazy" src="./blog/blog_images/cover_masld.png" class="thumbnail-image"></p>
+</a><p><a href="./blog/masld_metabolism_immunity.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./blog/masld_metabolism_immunity.html" class="no-external">Disease at the crossroads of Metabolism and Immunity - MASLD</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./blog/masld_metabolism_immunity.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('MASLD &amp; Liver Disease'); return false;">
+MASLD &amp; Liver Disease
+</div>
+</div>
+<div class="listing-description">
+<a href="./blog/masld_metabolism_immunity.html" class="no-external"><strong>Hello everyone!</strong><br>
+Welcome to my blog 🎉<br>
+Today, I will focus on a central theme of my research: metabolic dysfunction-associated steatotic liver disease (MASLD), a condition in…<br></a>
+</div>
+</div>
+<div class="metadata">
+<a href="./blog/masld_metabolism_immunity.html" class="no-external">
+<div class="listing-date">
+Jun 28, 2025
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="5" data-categories="Immunology &amp; The Lab" data-listing-date-sort="1746831600000" data-listing-file-modified-sort="1779742915595" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1039">
+<div class="thumbnail">
+<p><a href="./blog/liver.html" class="no-external"></a></p><a href="./blog/liver.html" class="no-external">
+<p><img loading="lazy" src="./blog/blog_images/cover_liver.png" class="thumbnail-image"></p>
+</a><p><a href="./blog/liver.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./blog/liver.html" class="no-external">From Prometheus to P450: Why the Liver Deserves Our Attention</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./blog/liver.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Immunology &amp; The Lab'); return false;">
+Immunology &amp; The Lab
+</div>
+</div>
+<div class="listing-description">
+<a href="./blog/liver.html" class="no-external"><strong>Hello everyone!</strong><br>
+Welcome to my blog 🎉<br>
+Today, I want to shift the focus slightly not away from science, but deeper into one of the organs at the heart of it all: the liver.<br>
+Th…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./blog/liver.html" class="no-external">
+<div class="listing-date">
+May 10, 2025
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="6" data-categories="Postdoc Diaries" data-listing-date-sort="1745449200000" data-listing-file-modified-sort="1779742915611" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="641">
+<div class="thumbnail">
+<p><a href="./blog/postdoc_pipettes_pages.html" class="no-external"></a></p><a href="./blog/postdoc_pipettes_pages.html" class="no-external">
+<p><img loading="lazy" src="./blog/blog_images/cover_postdoc.png" class="thumbnail-image"></p>
+</a><p><a href="./blog/postdoc_pipettes_pages.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./blog/postdoc_pipettes_pages.html" class="no-external">Postdoc, Pipettes, and Pages: A New Chapter Begins</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./blog/postdoc_pipettes_pages.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Postdoc Diaries'); return false;">
+Postdoc Diaries
+</div>
+</div>
+<div class="listing-description">
+<a href="./blog/postdoc_pipettes_pages.html" class="no-external"><strong>Hello everyone!</strong><br>
+I am a postdoctoral researcher working at the intersection of immunology and metabolism, with a focus on T cell-mediated responses in Metabolic…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./blog/postdoc_pipettes_pages.html" class="no-external">
 <div class="listing-date">
 Apr 24, 2025
 </div>
-</div>
-</div>
-</div>
 </a>
+</div>
 </div>
 </div>
 <div class="listing-no-matching d-none">
@@ -997,4 +922,4 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 
 
 
-</body></html>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+</body></html>
