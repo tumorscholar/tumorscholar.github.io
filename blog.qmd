@@ -19,8 +19,10 @@ listing:
 .quarto-listing-category .category {
   padding-bottom: 4px;
 }
+.listing-categories .listing-category,
 .listing-category,
-.quarto-category {
+.quarto-category,
+.quarto-title .quarto-categories .quarto-category {
   text-transform: none !important;
 }
 </style>
