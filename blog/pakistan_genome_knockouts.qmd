@@ -1,6 +1,6 @@
 ---
 title: "Nature's Largest Experiment: What 173,000 Pakistani Genomes Reveal About Liver Disease, Obesity, and the Future of Medicine"
-date: "2026-06-26"
+date: "2026-06-28"
 author: ""
 categories: [MASLD & Liver Disease]
 image: blog_images/cover_knockouts.png
