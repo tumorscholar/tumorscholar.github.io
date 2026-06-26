@@ -1,6 +1,5 @@
 ---
 title: "Nature's Largest Experiment: What 173,000 Pakistani Genomes Reveal About Liver Disease, Obesity, and the Future of Medicine"
-author: "RK"
 date: "2026-06-26"
 categories: [MASLD & Liver Disease]
 description: "A landmark Nature study of 173,000 Pakistani genomes has revealed thousands of naturally switched-off genes — including ones linked to fatty liver disease and obesity — transforming how we understand human biology and drug development."
@@ -8,9 +7,11 @@ image: "blog_images/cover_knockouts.png"
 draft: false
 ---
 
-*Sometimes, the answers to humanity's biggest medical questions have been living quietly in a particular community for generations. We just hadn't thought to ask.*
+**Hello everyone!**\
+Welcome to my blog 🎉\
+Today, I will discuss a landmark Nature paper that used the genomes of 173,000 people from Pakistan to reveal what happens when human genes are naturally switched off — and what that tells us about liver disease, obesity, and the future of medicine.
 
----
+*Sometimes, the answers to humanity's biggest medical questions have been living quietly in a particular community for generations. We just hadn't thought to ask.*
 
 There is a moment in science when the scale of a finding stops you. Last week, a paper published in *Nature* gave me one of those moments.
 
@@ -18,9 +19,7 @@ Researchers analysed the genomes of 173,303 people from across Pakistan and foun
 
 This is the largest natural repository of human knockouts ever assembled. And for those of us working on fatty liver disease and metabolic conditions, several of its findings are remarkable.
 
----
-
-## What Is a "Human Knockout" – and Why Does It Matter?
+**What Is a "Human Knockout" – and Why Does It Matter?**
 
 In biomedical research, one of the most powerful tools available to scientists is the ability to "knock out" a gene in an animal: to disable it completely and then observe what happens. Mouse models built on this principle have driven decades of drug development. If you want to know what a particular gene does, you remove it and watch.
 
@@ -30,9 +29,7 @@ What the Pakistan Genome Resource (PGR) offers is something different: naturally
 
 This is an extraordinary resource, and Pakistan's distinctive population structure is precisely why it exists.
 
----
-
-## Why Pakistan?
+**Why Pakistan?**
 
 Since the 1960s, scientists have understood that populations with high rates of consanguineous marriage, that is, marriages between close relatives, are uniquely valuable for genetic research. When two people who are closely related have children, those children are more likely to inherit the same rare genetic variants from both parents. If both copies of a gene are disrupted in this way, the gene is silenced entirely.
 
@@ -40,9 +37,7 @@ In Pakistan, marriages between first cousins have been culturally common for cen
 
 That matters because South Asians, representing around 25% of the world's population, account for only 2% of global genomic data. Decades of genetics research have been built on datasets that are overwhelmingly European in ancestry. The Pakistan Genome Resource is a significant step toward correcting that.
 
----
-
-## What the Study Found About Fatty Liver Disease
+**What the Study Found About Fatty Liver Disease**
 
 For those working on metabolic dysfunction-associated steatotic liver disease (MASLD), formerly known as non-alcoholic fatty liver disease or NAFLD, one of the most striking findings concerns a gene called *CIDEB*.
 
@@ -54,9 +49,9 @@ Fourteen individuals in the cohort carried two non-functioning copies of the *CI
 
 ![A schematic illustration of fat droplet accumulation in liver cells — and what happens when CIDEB is switched off.](blog_images/knockouts.png){fig-align="center" width="100%"}
 
----
+*Image created using Google Gemini*
 
-## The Obesity Connection
+**The Obesity Connection**
 
 The study also confirmed and extended findings on the genetics of obesity, findings with direct relevance to metabolic disease in South Asian populations.
 
@@ -66,9 +61,7 @@ The study also found that loss of *ADCY3*, a gene involved in cAMP signalling, w
 
 None of this is simple, of course. Most obesity is not the result of a single knocked-out gene. But understanding these extreme cases, where a gene's absence has a clear and measurable effect on body weight, provides a map of the biological machinery that governs energy balance and points toward where interventions might work.
 
----
-
-## When Human Data Overturns the Mouse
+**When Human Data Overturns the Mouse**
 
 Some of the most important findings in the paper are not about what the gene knockouts cause, but about what they do not cause.
 
@@ -78,9 +71,7 @@ Similarly, *PRDM9*, a gene considered essential for fertility in mice since male
 
 These discrepancies matter enormously. They represent billions of dollars in failed drug development that might have been avoided with earlier access to human genetic evidence. "Our database could prevent companies from spending millions of dollars on drug candidates doomed to fail," Saleheen says, "or give them confidence to move ahead."
 
----
-
-## A Community in the Data
+**A Community in the Data**
 
 There is something worth sitting with in the fact that this study, one which will almost certainly shape future medicines taken by people around the world, is built on the genetics of a South Asian community that global genomics has, until very recently, largely overlooked.
 
@@ -92,8 +83,6 @@ For those of us who work on MASLD, who study metabolic disease in populations wh
 
 Sometimes, the answers have been living in people's genes all along.
 
----
-
 *Koch C. et al. "Analysis of 173,303 exomes and genomes in the Pakistan Genome Resource." Nature (2026). DOI: 10.1038/s41586-026-10667-5*
 
-*If you found this interesting, I write regularly about liver disease, metabolic health, and the science behind both. Feel free to share with anyone who might benefit.*
+*Either die doing wet lab work or live long enough to do some computational work*
