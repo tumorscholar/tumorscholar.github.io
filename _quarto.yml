@@ -26,9 +26,6 @@ website:
         text: fellowships & awards
       - href: outreach-activities.qmd
         text: activities
-  comments:
-    utterances:
-      repo: tumorscholar/tumorscholar.github.io
 
 format:
   html:
