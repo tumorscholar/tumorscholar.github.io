@@ -51,8 +51,9 @@ Fourteen individuals in the cohort carried two non-functioning copies of the *CI
 
 <figure style="width: 90%; max-width: 900px; margin: 2em auto; display: block; text-align: center;">
   <img src="blog_images/knockouts.png" alt="A schematic illustration of fat droplet accumulation in liver cells and what happens when CIDEB is switched off" style="width: 100%; height: auto; display: block; border-radius: 8px; box-shadow: 0 4px 18px rgba(0,0,0,0.12);">
-  <figcaption style="font-size: 0.85em; text-align: center; margin-top: 0.6em; color: #888; font-style: italic; font-family: 'Source Sans 3', sans-serif;">
-    Image created using Google Gemini
+  <figcaption style="font-size: 0.85em; text-align: center; margin-top: 0.6em; color: #888; font-family: 'Source Sans 3', sans-serif;">
+    A liver with MASLD (left) shows hepatocytes engorged with fat droplets, while a healthy liver (right) has compact, lipid-free cells. The DNA helix reflects how genomic studies like the Pakistan Genome Resource are revealing the genetic basis of this contrast.<br>
+    <em>Image created using Google Gemini</em>
   </figcaption>
 </figure>
 
