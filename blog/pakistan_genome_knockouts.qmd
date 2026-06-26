@@ -25,7 +25,7 @@ In biomedical research, one of the most powerful tools available to scientists i
 
 The problem is that mice are not people. Genes that are essential to a mouse's survival are sometimes entirely dispensable in humans, and vice versa. This mismatch, elegant in theory and expensive in practice, is one of the central reasons why drugs that work beautifully in animal studies so often fail in clinical trials.
 
-What the Pakistan Genome Resource (PGR) offers is something different: naturally occurring human knockouts. People who were born, lived, and raised without a functional copy of a particular gene. "These human variants are nature's experiments," says Christopher Koch, a geneticist at Novartis Biomedical Research and co-lead author of the study. "They allow us to understand what happens when a gene's function is reduced or completely absent in humans."
+What the Pakistan Genome Resource (PGR) offers is something different: naturally occurring human knowouts. People who were born, lived, and raised without a functional copy of a particular gene. "These human variants are nature's experiments," says Christopher Koch, a geneticist at Novartis Biomedical Research and co-lead author of the study. "They allow us to understand what happens when a gene's function is reduced or completely absent in humans."
 
 This is an extraordinary resource, and Pakistan's distinctive population structure is precisely why it exists.
 
@@ -49,7 +49,7 @@ Fourteen individuals in the cohort carried two non-functioning copies of the *CI
 
 ![A schematic illustration of fat droplet accumulation in liver cells — and what happens when CIDEB is switched off.](blog_images/knockouts.png){fig-align="center" width="100%"}
 
-*Image created using Google Gemini*
+<p style="text-align:center; font-size:0.85em; color:grey; margin-top:4px;"><em>Image created using Google Gemini</em></p>
 
 **The Obesity Connection**
 
@@ -84,5 +84,3 @@ For those of us who work on MASLD, who study metabolic disease in populations wh
 Sometimes, the answers have been living in people's genes all along.
 
 *Koch C. et al. "Analysis of 173,303 exomes and genomes in the Pakistan Genome Resource." Nature (2026). DOI: 10.1038/s41586-026-10667-5*
-
-*Either die doing wet lab work or live long enough to do some computational work*
