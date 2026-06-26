@@ -2,7 +2,7 @@
 title: "Nature's Largest Experiment: What 173,000 Pakistani Genomes Reveal About Liver Disease, Obesity, and the Future of Medicine"
 author: "RK"
 date: "2026-06-26"
-categories: [Genomics, MASLD, Obesity, South Asian Health, Drug Discovery]
+categories: [MASLD & Liver Disease]
 description: "A landmark Nature study of 173,000 Pakistani genomes has revealed thousands of naturally switched-off genes — including ones linked to fatty liver disease and obesity — transforming how we understand human biology and drug development."
 image: "blog_images/cover_knockouts.png"
 draft: false
