@@ -1,85 +1,98 @@
 ---
 title: "A Disease That Changed Its Name — And Why That Matters"
-date: 2026-08-26
+date: "2026-08-26"
+author: ""
 categories: [MASLD & Liver Disease]
 image: blog_images/name_change_timeline.png
 description: "For decades, fatty liver disease had a name that confused patients and misdirected doctors. In 2023, the world's liver specialists changed it, and the reasons why matter deeply for South Asia."
+format:
+  html:
+    toc: true
+    number-sections: false
+    css: ../styles/blog_styles.css
 ---
 
+::: justify-text
 **Hello everyone!**\
 Welcome to my blog 🎉\
-Today, I want to continue from where we left off last time, because before we can properly talk about fatty liver disease, we need to talk about something more fundamental: what we call it, and why the name we use has spent decades quietly getting in the way.
+Today, I want to continue from where we left off last time, because before we can properly talk about fatty liver disease, we need to talk about something more fundamental: what we call it, and why the name spent decades quietly getting in the way.\
 
-*The way we name a disease shapes how patients feel, how doctors think, and how whole communities decide whether to come forward or stay silent.*
+*The way we name a disease shapes how patients feel, how doctors think, and how whole communities decide whether to come forward or stay silent.*\
 
-Picture this scene. A middle-aged man, slim, a lifelong teetotaller, goes for a routine ultrasound. The report comes back with an unexpected finding: fatty liver. His doctor, following the old textbook, tells him this is a condition caused by drinking too much alcohol. The patient is confused, then offended. He has never touched alcohol in his life. He wonders if there has been a mistake. He does not come back for follow-up. His wife does not believe him. The condition that needed attention quietly continues, unmonitored and unnamed.
+There is a scene I keep coming back to when I think about this. A middle-aged man, slim, a lifelong teetotaller, goes for a routine ultrasound somewhere across South Asia. The report comes back: fatty liver. His doctor, following the textbook, tells him this condition is linked to alcohol. The patient is confused, then offended. He has never touched alcohol in his life. He wonders if there has been a mistake. He does not return for follow-up. His family does not believe him. And the condition that needed attention continues, quietly, unmonitored.\
 
-This story is not unusual. For decades, the medical world was using a name for fatty liver disease that was, in ways we are only now reckoning with, misleading patients and putting them off from engaging with their own healthcare. In 2023, that name was officially changed. Understanding why this happened, and what the new name means, is the foundation for everything else in this series.
+This story is not a hypothetical. Versions of it have played out countless times across the subcontinent, in clinics and hospital waiting rooms, in conversations that should have been about metabolism and diet and insulin levels but became instead about suspicion and shame. The name of the disease was doing the damage. And for four decades, nobody changed it.\
 
-**🗓️ Where the old name came from**
+**Where the old name came from**\
+The story begins in 1980, in a paper published in *Mayo Clinic Proceedings*, in which a physician named Jurgen Ludwig described a pattern he had noticed in patients: people who had never drunk significant amounts of alcohol, yet whose livers, when biopsied, looked exactly like those of people who had. The injury, the fat, the inflammation, the scarring — all of it matched what had historically been called alcoholic liver disease.\
 
-The story begins in 1980, in a paper published in the journal *Mayo Clinic Proceedings*, in which a physician named Jurgen Ludwig described a pattern he had been noticing in patients: people who had never drunk alcohol in significant quantities, yet whose livers, when biopsied, looked exactly like the livers of people who had. The injury, the fat, the inflammation, the scarring: all of it matched what had historically been called alcoholic liver disease.
+Ludwig needed a term that captured this resemblance while distinguishing these patients from those whose damage came from drinking. He called it nonalcoholic fatty liver disease, or NAFLD. For its time, it was a reasonable clinical shorthand. The more severe, inflammatory form was called NASH, nonalcoholic steatohepatitis.\
 
-Ludwig needed a term that captured this resemblance while distinguishing these patients from those whose liver damage was caused by drinking. He called it **nonalcoholic fatty liver disease**, or NAFLD. For its time, it was a reasonable solution to a naming problem. The word "nonalcoholic" told doctors: this patient has a liver that looks like an alcoholic's, but they are not one. It was a clinical shorthand.
+These acronyms survived for over forty years. NAFLD became the standard term in textbooks, research papers, clinical guidelines, and patient leaflets. The problem is that reasonable clinical shorthand and accurate disease naming are not the same thing, and as the number of people affected grew into the hundreds of millions, the gap between them became harder to ignore.\
 
-That shorthand survived for over four decades. NAFLD became the universally accepted term in textbooks, research papers, clinical guidelines, and patient leaflets. The more severe form, involving inflammation, was called NASH, which stood for nonalcoholic steatohepatitis. These acronyms defined the field.
+**The problem with defining a disease by what it is not**\
+There are two ways a name can fail. It can mislead, and it can misdirect. NAFLD did both.\
 
-But as the number of people affected by the disease grew, and as researchers began to understand its true causes more deeply, the problems with the old name became harder to ignore.
+The misleading part is obvious in retrospect. If your doctor tells you that you have a *nonalcoholic* condition, the word your brain registers first is alcohol. It sits in the sentence like an implication, however unintended. In South Asian communities, where alcohol is either religiously prohibited or socially stigmatised, this was not a minor inconvenience. It was a genuine barrier to care. Patients who had never drunk felt accused. Families were suspicious. The clinical conversation that needed to happen, about insulin resistance and visceral fat and dietary patterns, was crowded out by a word that pointed in entirely the wrong direction.\
 
-**⚠️ Why "nonalcoholic" was the wrong word**
+The misdirection was subtler but perhaps more damaging at the systemic level. Naming a disease by what does not cause it tells you nothing about what does. A doctor seeing a patient labelled with NAFLD might focus their questions on drinking history. They might not think to ask about blood sugar, or abdominal girth, or family history of diabetes. The name was steering clinical attention away from the metabolic machinery that actually drives the disease.\
 
-There are two major problems with defining a disease by what it is not.
+The 2023 Delphi consensus process found that 61% of respondents considered the term "nonalcoholic" to be stigmatising, and 66% felt the same about the word "fatty." These were majority views, not fringe complaints, from the very people who lived and worked with the disease every day.\
 
-The first is confusion. If your doctor tells you that you have a *nonalcoholic* liver condition, the first thing most patients hear is alcohol. The word sits in the sentence like an accusation, even with "non" attached to it. In South Asian communities, where alcohol is either prohibited by religion or strongly stigmatised socially, the implication is particularly harmful. Patients who have never drunk a single unit of alcohol find themselves in the impossible position of explaining this to their families, while the conversation that should be happening, about their metabolism, their diet, their insulin levels, their risk of progression, never takes place. Shame and confusion crowd out medicine.
+**The Delphi consensus**\
+What followed was a significant piece of international collaboration. Between 2022 and 2023, more than three hundred specialists from around the world, including hepatologists, endocrinologists, patient advocates, and researchers, came together through a process known as a Delphi consensus. In this kind of exercise, experts independently assess a set of proposals across several rounds of voting until clear agreement emerges.\
 
-The second problem is misdirection. Naming the disease by what does not cause it tells you nothing useful about what does. "Nonalcoholic" points the gaze in the wrong direction entirely: away from the metabolic dysfunction that actually drives the disease. A doctor seeing a patient labelled with NAFLD might focus their questions on drinking habits. They might not think to ask about insulin resistance, or abdominal fat, or family history of diabetes. The name was quietly steering clinical attention away from what mattered.
+The goal was to find a name that accurately reflected the disease's biology, reduced stigma, and worked across languages and cultures. After extensive debate, they arrived at one that was subsequently adopted by all major liver disease societies worldwide.\
 
-In 2020, a survey asked a large group of patients and specialists how they felt about the terminology. The results were striking. More than sixty percent of respondents felt that the term "nonalcoholic" was stigmatising. Nearly two thirds felt the same about the word "fatty." These were not minor objections from a small minority. They were majority views, from the very people who lived and worked with this disease every day.
+That name is MASLD: Metabolic Dysfunction-Associated Steatotic Liver Disease.\
 
-**🌍 The global effort to find a better name**
+<figure style="width: 35%; max-width: 400px; margin: 2em auto; display: block; text-align: center;">
+  <img src="blog_images/masld_acronym.png" alt="A visual breakdown of the MASLD acronym showing what each letter stands for" style="width: 100%; height: auto; display: block; border-radius: 8px; box-shadow: 0 4px 18px rgba(0,0,0,0.12);">
+  <figcaption style="font-size: 0.85em; text-align: center; margin-top: 0.6em; color: #888; font-family: 'Source Sans 3', sans-serif;">
+    A breakdown of what each word in MASLD stands for.<br>
+    <em>Image created using Google Gemini</em>
+  </figcaption>
+</figure>\
 
-What followed was a remarkable piece of international collaboration. In 2022 and 2023, a group of more than three hundred specialists from around the world, including hepatologists, endocrinologists, patient advocates, and researchers, came together in what is known as a Delphi consensus process. In this kind of exercise, experts from different countries and disciplines independently assess a set of proposals and vote on them, going through several rounds until clear agreement emerges.
+**What the new name actually means**\
+Each word is doing real work here, which is worth taking a moment to appreciate.\
 
-The goal was to replace NAFLD with a name that accurately reflected the disease's true nature, reduced stigma, and was usable across languages and cultures. After extensive debate and multiple rounds of voting, they arrived at a new name that was adopted by all major liver disease societies worldwide.
+*Metabolic dysfunction* names the actual driver of the disease. The liver does not accumulate fat in isolation. It does so because the body's metabolic system, the machinery that handles energy, sugar, and fat, is not functioning as it should. Insulin resistance sits at the centre of this, and it is something we will spend considerable time on in later posts. The new name announces from the outset that the liver is the site of injury, but metabolism is where the problem begins.\
 
-That name is **MASLD**: Metabolic Dysfunction-Associated Steatotic Liver Disease.
+*Steatotic* replaces the word fatty. It comes from the Greek *stear*, meaning fat, and it describes the same biological finding — fat accumulating inside liver cells — without the value judgement the everyday word carries. It is more precise and less editorialising. The severe inflammatory form, previously called NASH, is now MASH: Metabolic dysfunction-Associated Steatohepatitis.\
 
-**🔬 What the new name actually means**
+Beyond the name, the new diagnostic criteria also shifted the clinical framework in a meaningful way. Under the old system, NAFLD was a diagnosis of exclusion: rule out alcohol, rule out a few rare causes, and whatever remained was NAFLD, with no requirement to confirm the presence of metabolic dysfunction. The new criteria for MASLD require at least one of five cardiometabolic risk factors — excess weight, type 2 diabetes or prediabetes, elevated blood pressure, elevated blood fats, or abnormal waist measurement. The diagnosis now actively looks for the metabolic context rather than simply ruling out other explanations.\
 
-Let us take the new name apart, because each word is doing real work.
+**Why the rename matters here**\
+The metabolic dysfunction at the centre of MASLD, particularly insulin resistance and visceral fat accumulation, is extraordinarily prevalent across South Asia. People in this region develop these metabolic problems at lower body weights and younger ages than populations of European descent. The shift from *nonalcoholic* to *metabolic* is therefore a shift toward the very territory where South Asian risk is concentrated. It makes this population visible in the disease framework in ways the old name never managed.\
 
-**Metabolic dysfunction** is the engine of the disease. The liver does not accumulate fat in isolation. It does so because the body's metabolic system, the complex machinery that handles energy, sugar, and fat, is not working as it should. Insulin resistance (a condition we will explore in depth in a later post) plays a central role here. So does the way the body distributes fat, particularly in South Asians. The new name announces this from the outset: the liver is injured because the metabolism is struggling. That is where the clinical attention should go.
+There is also the simpler matter of removing a word from the clinical encounter that had no business being there. When words change, thinking changes. When thinking changes, medicine changes. And when medicine changes, it sometimes reaches people it never quite reached before.\
 
-![](blog_images/masld_acronym.png){width=35% fig-align="center"}
+In the next post, we will ask what should be a straightforward question: how common is this disease, and what do the numbers actually look like for South Asia? The answer is not what most people expect.\
 
-*A breakdown of what each word in MASLD stands for. Image created using Google Gemini.*
+---
 
-**Associated** simply links the two halves of the name. The steatotic liver disease is associated with, caused by, and intertwined with the metabolic dysfunction.
+**Further reading**\
+Ludwig J et al. Nonalcoholic steatohepatitis: Mayo Clinic experiences with a hitherto unnamed disease. *Mayo Clinic Proceedings*, 1980.\
+Rinella ME et al. A multisociety Delphi consensus statement on new fatty liver disease nomenclature. *Journal of Hepatology*, 2023.\
 
-**Steatotic** is the technical word for fat-laden. It comes from the Greek *stear*, meaning fat. Steatosis is the process by which fat accumulates in liver cells. Using "steatotic" instead of "fatty" removes the everyday judgement that "fatty" carries; no one thinks of "steatotic" as a slur, while it is also more biologically precise. Fat in the liver is a specific, measurable finding, and the word now names it without editorialising.
+:::
 
-**Liver disease** is exactly what it says.
-
-The more severe, inflammatory form of the disease, previously called NASH, is now called **MASH**: Metabolic dysfunction-Associated Steatohepatitis. The logic is the same: "steatohepatitis" already tells you there is inflammation in a fat-laden liver, and removing the "nonalcoholic" prefix makes the name honest about what is actually happening.
-
-**📋 What changed beyond the name**
-
-The rename was not merely cosmetic. Alongside the new name came a new set of diagnostic criteria that shifted the clinical framework in an important way.
-
-Under the old system, NAFLD was essentially a diagnosis of exclusion: you had to rule out alcohol, and rule out a handful of other rare causes, and whatever was left was NAFLD. There was no requirement to confirm the presence of metabolic dysfunction. Someone could be labelled with NAFLD without a single metabolic test being done.
-
-The new criteria for MASLD require that at least one of five cardiometabolic risk factors be present: excess body weight, type 2 diabetes or prediabetes, elevated blood pressure, elevated blood fats, or an abnormal waist measurement. This is significant because it links the diagnosis firmly to the metabolic system, and it directs clinical attention toward the conditions that need to be managed alongside the liver, including diabetes, blood pressure, and lipids.
-
-This shift also opens up a new diagnostic category. Some patients with fatty liver disease have none of these metabolic features and drink no significant alcohol. Their condition is now called cryptogenic steatotic liver disease, and it flags that something else, perhaps a genetic factor, needs to be investigated. The naming system is now more precise, more informative, and more honest about what it does and does not know.
-
-**🌏 Why this matters for the Indian subcontinent**
-
-The renaming carries particular weight here. In societies across India, Pakistan, and Bangladesh, the word "alcohol" in a medical diagnosis had real consequences beyond the clinic: for families, for relationships, for how patients were perceived in their communities. The old name NAFLD was creating a barrier between people and their healthcare that was both unnecessary and harmful.
-
-But there is a deeper reason why the new name matters for South Asia. The metabolic dysfunction at the centre of MASLD, particularly insulin resistance and abdominal fat, is extraordinarily prevalent in our populations. South Asians develop these metabolic problems at lower body weights and at younger ages than people of European descent. The shift from "nonalcoholic" to "metabolic" is a shift toward the very territory where South Asian risk is concentrated. It makes the disease, and the populations most affected by it, visible in ways the old name never did.
-
-When words change, thinking changes. When thinking changes, medicine changes. And when medicine changes, it sometimes reaches people it never quite reached before.
-
-**⏭️ Coming up next**
-
-Now that we know what the disease is called and why, we can ask the next obvious question: how common is it? The numbers, when you see them in the context of South Asia, are not easy to look away from.
+<!-- Giscus Comment Box -->
+<div id="giscus-comments" style="margin-top: 2em;">
+  <script src="https://giscus.app/client.js"
+        data-repo="tumorscholar/tumorscholar.github.io"
+        data-repo-id="R_kgDOOUGWOg"
+        data-category="General"
+        data-category-id="DIC_kwDOOUGWOs4CpdtL"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="noborder_light"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
+</div>
