@@ -1,6 +1,6 @@
 ---
 title: "A Disease That Changed Its Name — And Why That Matters"
-date: "2026-08-26"
+date: "2026-08-30"
 author: ""
 categories: [MASLD & Liver Disease]
 image: blog_images/name_change_timeline.png
