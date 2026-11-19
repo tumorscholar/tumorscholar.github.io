@@ -3,6 +3,16 @@ title: "publications"
 slug: "publications"
 ---
 ::: {.justify-text}
+
+<p style="text-indent: -22px; margin-left: 22px;"><img src="images/book.png" style="width:16px; height:16px; margin-right:6px; vertical-align:middle;" />Wenhao Li, Niannian Wang, Dania El Abyad, Seray Anak, <strong>Raju Kumar</strong>, Iris Ginés, Upkar Gill, Gillian Hood, James Brindley, Charles Mein, James Boot, Una Rose Wilcox, Neil Dufton, Robert Goldin, Tania Roskams, John Loy, Kalpana Devalia, Humza Malik, Adam Goralcyzk, Maria Jimenez-Ramos, Timothy J. Kendall, Jonathan A. Fallowfield, Maria Ines Castanho Martins, Krista Rombouts, Michele Vacca, Olivier Govaere, and William Alazawi. TLR5 drives metabolic dysfunction-associated steatohepatitis through lipid- and flagellin-induced hepatocyte injury signaling. <a href="https://www.science.org/doi/10.1126/sciadv.aef9541" target="_blank"><em>Science Advances</em>. 2026;12(47):eaef9541</a>.
+</p>
+
+<p style="text-indent: -22px; margin-left: 22px;"><img src="images/book.png" style="width:16px; height:16px; margin-right:6px; vertical-align:middle;" />Christina Gkantsinikoudi, Joshua P. Dignam, <strong>Raju Kumar</strong>, Elliot Jokl, Meenakshi Rana, Wenhao Li, Maryna Samus, Stephanie Landi, Varinder S. Athwal, Timothy J. Kendall, Antal Rot, Jonathan A. Fallowfield, Karen Piper Hanley, William Alazawi, and Neil P. Dufton. Mapping vascular plasticity during fibrogenesis identifies fibrosis-associated endothelial cells in early-stage liver disease. <a href="https://doi.org/10.1172/jci.insight.207327" target="_blank"><em>JCI Insight</em>. 2026;11(19):e207327</a>.
+</p>
+
+<p style="text-indent: -22px; margin-left: 22px;"><img src="images/book.png" style="width:16px; height:16px; margin-right:6px; vertical-align:middle;" />Rana Alaaeldin Ibrahim, Hong Wan, <strong>Raju Kumar</strong>, Muy-Teck Teh, Angray Kang, Emma Bailey, Hannah Cottom, Adrian Biddle, Inês Sequeira, and Farida Fortune. <em>TP53</em> mutations orchestrate partial EMT states in oral squamous cell carcinoma: spatially resolved and <em>in vitro</em> preliminary insights into tumour plasticity. <a href="https://doi.org/10.1002/path.70123" target="_blank"><em>Journal of Pathology</em>. 2026, first published 30 September</a>.
+</p>
+
 <p style="text-indent: -22px; margin-left: 22px;"><img src="images/book.png" style="width:16px; height:16px; margin-right:6px; vertical-align:middle;" />Sara A. George, Viswakalyan Kotapalli, Pandilla Ramaswamy, <strong>Raju Kumar</strong>, Swarnalata Gowrishankar, Shantveer G. Uppin, Murali D. Bashyam. Novel oncogenic transcriptional targets of mutant p53 in esophageal squamous cell carcinoma. <a href="https://onlinelibrary.wiley.com/doi/10.1002/jcb.30534" target="_blank"><em>Journal of Cellular Biochemistry</em>, 2024;125:e30534</a>.
 </p>
 
